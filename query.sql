@@ -102,12 +102,12 @@ FROM ch_git_revision AS t2
 GROUP BY t2.component_name, t2.sub_component
 ) as t
 
-UPDATE ch_component_new 
+UPDATE ch_git_revision 
 SET developer_count = (
     SELECT COUNT(author) AS nAuthors
     FROM ch_git_revision AS t2
-    WHERE ch_component_new.component_name = t2.component_name
-    AND ch_component_new.sub_component = t2.sub_component
+    WHERE ch_git_revision.component_name = t2.component_name
+    AND ch_git_revision.sub_component = t2.sub_component
     GROUP BY component_name, sub_component
 )
 where developer_count is null
