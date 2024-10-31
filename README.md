@@ -1,13 +1,4 @@
-<<<<<<< HEAD
 # Common Defects In Modern Web Browsers using LLM
-
-## Summary
-TODO.. summary...
-### Research Questions
-RQ1: 
-RQ2:
-RQ3:
-RQ4:
 
 ## Data Collection
 We collected Firefox Bugs following the documentation available here https://bmo.readthedocs.io/en/latest/api/core/v1/bug.html
@@ -35,8 +26,7 @@ This repository contains the code and resources for the research paper titled "B
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/singhrahulbrijesh/common-defect-in-browsers.git
+   ```bash git clone https://github.com/singhrahulbrijesh/common-defect-in-browsers.git
 Navigate to the project directory:
 bash
 Copy code
@@ -65,8 +55,7 @@ Thanks to the contributors of the Firefox and Chromium projects for their open-s
 Contact
 For any inquiries, please reach out to me at singhrahulbriesh@gmail.com.
 
-css
-Copy code
+css Copy code
 
 Feel free to modify the content to suit your specific project details!
->>>>>>> f97653f03fd168024d4f889f451bec7274662357
+
