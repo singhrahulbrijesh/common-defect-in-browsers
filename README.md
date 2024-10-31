@@ -44,7 +44,7 @@ Acknowledgments
 Thanks to the contributors of the Firefox and Chromium projects for their open-source efforts, which made this research possible.
 
 Contact
-For any inquiries, please reach out to me at singhrahulbriesj@gmail.com.
+For any inquiries, please reach out to me at singhrahulbriesh@gmail.com.
 
 css
 Copy code
