@@ -1,0 +1,57 @@
+Component,Chrome Total Churn,,Component,Firefox Total Churn
+android,7431396,,android,4042464
+api,198211,,api,799361
+application,19837359,,application,65846
+autocomplete,669618,,autocomplete,53314
+autofill,2642941,,autofill,254973
+bookmarks,527877,,bookmarks,298405
+cache,51750,,cache,636305
+cck,3249438,,cck,189707
+content,8235581,,content,18049167
+cookies,112834,,cookies,40871
+css,700227,,css,5221316
+desktop,168239,,desktop,199980
+dns,176253,,dns,253513
+dom,884591,,dom,11011052
+download,967547,,download,21390
+enterprise,104968,,enterprise,59306
+extensions,7248942,,extensions,7533161
+gfx,1334269,,gfx,22782942
+gpu,3992052,,gpu,1559773
+infrastructure,1485849,,infrastructure,33524
+ipc,416478,,ipc,2853145
+keyboard,165704,,keyboard,10335
+layout,1286501,,layout,11617586
+media,5585821,,media,17698869
+mobile,8290,,mobile,430063
+net,14217829,,net,953166
+notification,469950,,notification,60165
+os,113636,,os,622773
+parser,28823,,parser,3411139
+password,1013126,,password,449371
+performance,207388,,performance,458874
+permission,176534,,permission,55729
+plugin,2061937,,plugin,1815893
+preferences,158599,,preferences,654115
+printing,498760,,printing,83804
+privacy,101087,,privacy,5969
+profile,490161,,profile,1039333
+remote,2261669,,remote,524413
+reporting,43331,,reporting,44049
+search,663498,,search,579096
+security,91154,,security,58643135
+services,1323022,,services,801359
+shell,690263,,shell,190607
+storage,176553,,storage,496156
+sync,3546907,,sync,890077
+themes,58795,,themes,1085082
+toolbar,452577,,toolbar,29757
+tools,10893024,,tools,4429568
+ui,6988264,,ui,356216
+url,656089,,url,270965
+views,5163193,,views,125840
+webstore (web-platform),19530,,webstore (web-platform),16359004
+webapps,119071,,webapps,104243
+weblayer (webservice),227624,,weblayer (webservice),144907
+wenrunner (webtools),36526,,wenrunner (webtools),2274616
+widget,469995,,widget,3540743

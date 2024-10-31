@@ -1,0 +1,82 @@
+The followins are removed from the initial list of sub-components:
+toos
+app
+all component names
+java
+lib
+buildbot
+junit
+javatests
+test
+util
+cipd - used for avoiding large binary files from checking into git
+base.xcodeproj - developers' thing
+all.xcodeproj - developers' thing
+xml - container folder
+xcodebodge - developers' thing
+webtest
+web_test
+v8_context_snapshop
+typescript
+valgrind
+usb* -> usb
+url* -> url
+unittests
+udp* -> udp
+ubsan_vptr
+udev* -> udev
+translate
+translate_strings_grdp -> translate
+translation -> translate
+trace* -> trace
+touch* -> touch
+time* -> time
+time_zone -> timezone
+test_apk
+testdata
+testing
+test_runner
+third_party_dlls
+telemetry_tools
+temp_gyp
+task
+task_scheduler
+task_scheduler_util
+task_viewer
+tab* -> tab
+system_media_controls, system_monitor, sysui -> system
+supervised_user_error_page_strings_grdp -> supervised_user_error_page
+surfaces -> surface
+
+strings
+ ssl
+ ssl_config
+ ssl_errors
+ ssl_errors_strings_grdp
+
+
+Deleted compoments after manual verification:
+courgette
+codelabs
+blimp
+gears
+dartiumtool
+chrome
+components
+build
+chrome_frame
+chrome_elf
+chrome_cleaner
+apps
+android_webview -> android
+base
+buildtools
+dbus
+jingle
+
+'native_client_sdk' -> native_client
+'notification' -> 'notification_helper'
+site_scons
+src
+
+'test' where name => 'tests'

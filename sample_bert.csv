@@ -1,0 +1,1261 @@
+summary,cluster_tag,clusters
+firefox quantum slowly closes file uri process (5 seconds)        ,Functional Performance Bugs,2
+dragged images from firefox doesn't fully support the file promise        ,Functional Performance Bugs,2
+preferences show firefox is the default browser when it is not associated with html files        ,Functional Performance Bugs,2
+when choosing a different application to open a file the chosen application is ignored        ,Functional Performance Bugs,2
+"when downloading the proxy.pac file, firefox does not send the cookie: http header to the server        ",Functional Performance Bugs,2
+[pdf.js] pdf file making firefox unresponsive        ,Functional Performance Bugs,2
+shows blank pdf when file is hosted in a directory protected by ntlm        ,Functional Performance Bugs,2
+firefox 32 or higher refuses to restore session files from older versions        ,Functional Performance Bugs,2
+file handle remains open/locked by firefox after local file accidentally dropped on browser window        ,Functional Performance Bugs,2
+firefox stops scrolling using the synaptics touchpad after opening a pdf file in adobe reader        ,Functional Performance Bugs,2
+"pdf file is printed with wrongly positioned glyphs, barely readable        ",Functional Performance Bugs,2
+firefox locks os folder after reading html file.        ,Functional Performance Bugs,2
+8.3 file format after a sync of a roaming profile for the firefox profile folder for 3 files        ,Functional Performance Bugs,2
+incorrect pop-up origin for file chooser inside frame        ,Functional Performance Bugs,2
+cannot open pdf attached email file with _%_ included in the file name        ,Functional Performance Bugs,2
+"osx default ""open with..."" for files reset by firefox, especially pdfs.        ",Functional Performance Bugs,2
+firefox does not close local file handles        ,Functional Performance Bugs,2
+firefox uses 60% of my cpu while downloading a file        ,Functional Performance Bugs,2
+firefox generated pdfs have large file size        ,Functional Performance Bugs,2
+[e10s] firefox 60 won't open any local file if a <symlinkd> is in the path to that file        ,Functional Performance Bugs,2
+"pdf share results in sharing ""authorization required"" html file        ",Functional Performance Bugs,2
+downloading a large file to a network share corrupts  and truncates the file        ,Functional Performance Bugs,2
+download history of same file location shows incorrect file size        ,Functional Performance Bugs,2
+firefox leaks open file descriptors to subprocesses like updater        ,Functional Performance Bugs,2
+svg file found in the wild hangs all firefox tabs        ,Functional Performance Bugs,2
+firefox not picking the good interface when over vpn with pac file        ,Functional Performance Bugs,2
+media playback: block firefox from automatically playing media when accessed directly via a file        ,Functional Performance Bugs,2
+dragging the icon from the url bar to a file manager window results in “untitled.lnk” for text files        ,Functional Performance Bugs,2
+import files with the finder causes firefox to freeze and crashes.        ,Functional Performance Bugs,2
+"using firefox to open files from disk shows those files under ""recent items"" on the taskbar, despite browser.taskbar.lists.enabled being false        ",Functional Performance Bugs,2
+firefox can not open local html files (file//)        ,Functional Performance Bugs,2
+[kde] firefox ignores default/preferred file browser in        ,Functional Performance Bugs,2
+links to sharepoint files do not open        ,Functional Performance Bugs,2
+downloading multiple files not accessible        ,Functional Performance Bugs,2
+firefox developer tools generate invalid har files when content is blocked        ,Functional Performance Bugs,2
+"newly downloaded files by firefox don't show up in macos ""recents"" category        ",Functional Performance Bugs,2
+dragging file attachment from thunderbird to firefox file input breaks the form        ,Functional Performance Bugs,2
+"incorrect handler display on about:preferences after ""always open similar files"" (can't find default handler for css files)        ",Functional Performance Bugs,2
+firefox snap cannot access user fonts and fontconfig files        ,Functional Performance Bugs,2
+firefox will not open the correct program for file type in kde        ,Functional Performance Bugs,2
+"""save all messages to file"" in firefox console saves truncated messages        ",Functional Performance Bugs,2
+"[macos] large* files fail to download (symptomsd resource_notify trigger (too many ""dirty bytes"" written))        ",Functional Performance Bugs,2
+cannot drag & drop image file from /tmp/ to flatpak firefox        ,Functional Performance Bugs,2
+firefox webaudioapi context cannot decode certain aac files (working fine using other browsers)        ,Functional Performance Bugs,2
+firefox needlessly modifies logins.json/logins-backup.json files        ,Functional Performance Bugs,2
+does not kill firefox process (when running from command prompt) after trying to load a incorrect (path) xul file        ,Functional Performance Bugs,2
+download manager tweak add-on empty even when there are files being downloaded.        ,Functional Performance Bugs,2
+"when downloading a file or saving a web page, put source url into ""notes"" (gnome) or ""summary"" (windows) of the saved files.        ",Functional Performance Bugs,2
+firefox does not support run-time javascript file handling.        ,Functional Performance Bugs,2
+firefox file://... opens the wrong file when there's a firefox running on a different machine        ,Functional Performance Bugs,2
+installer should deploy settings to keep win7 native backup system from backing up cache files        ,Functional Performance Bugs,2
+firefox esr is slow when using a proxy.pac file in an entreprise environment with proxy infrastructure        ,Functional Performance Bugs,2
+maintenanceservice_installer.exe fails without notification when there is a %programfiles%\mozilla maintenance service file        ,Functional Performance Bugs,2
+firefox in private browsing mode deletes downloaded files upon exit        ,Functional Performance Bugs,2
+firefox does not use default file manager        ,Functional Performance Bugs,2
+fail to open a downloaded pdf file on ubuntu        ,Functional Performance Bugs,2
+firefox prevents deleting a folder if a pdf file has been opened from it.        ,Functional Performance Bugs,2
+allow firefox to silently auto-update via command line without mar file        ,Functional Performance Bugs,2
+build system should produce a better error message when building on a case-insensitive filesystem (fatal error: string.h: no such file or directory)        ,Functional Performance Bugs,2
+firefox does not correctly detect application to open a (binary) file with in gnome        ,Functional Performance Bugs,2
+"assertion: couldn't create child process.: 'error', file nsframeloader.cpp - solaris sparc issue        ",Functional Performance Bugs,2
+"on ubuntu-based distro elementary os, open containing folder attempts to open the file explorer at pptx files instead of the downloads folder they are contained in.        ",Functional Performance Bugs,2
+firefox 60.2.2esr freezes on locating download file folder        ,Functional Performance Bugs,2
+solaris - undefined symbol epoll_wait first referenced in file libmio.rlib        ,Functional Performance Bugs,2
+"firefox complains of not enough space if filesystem last saved to ran out of space, even if ""always asks you where to save files"" is set        ",Functional Performance Bugs,2
+pdf viewer does not support relative links from local files (file://)        ,Functional Performance Bugs,2
+"[clang, ppc64le] the bookmarks and history system will not be functional because one of firefox's files is in use by another application        ",Functional Performance Bugs,2
+request denied downloading temporary files ( browser.download.improvements_to_download_panel set to false in combination with snap builds)        ,Functional Performance Bugs,2
+"dynamically generated .csv file ends up as "".csv.xls"" in mozilla.  works fine in ie.        ",Functional Performance Bugs,2
+"temporary file not removed when opened with ""default application""        ",Functional Performance Bugs,2
+save url/location of saved document in file saved-urls.txt in same directory        ,Functional Performance Bugs,2
+"""funny"" behavior when extension-manager haven't enough system-rights to manage all files - gecko needs an better system-error handling        ",Functional Performance Bugs,2
+file icons not displayed in filepicker in firefox classic skin        ,Functional Performance Bugs,2
+firefox should warn before displaying huge text files        ,Functional Performance Bugs,2
+firefox german: mp3 file uploads via php fail.        ,Functional Performance Bugs,2
+creating shortcuts for files        ,Functional Performance Bugs,2
+error selecting application to open downloaded file        ,Functional Performance Bugs,2
+[win32] cannot show files that have colons in the file name        ,Functional Performance Bugs,2
+wrong helper app shown in pre-download window (because i changed the file type association)        ,Functional Performance Bugs,2
+firefox startup error for incorrect file permissions: incorrect solution listed        ,Functional Performance Bugs,2
+"firefox profiles in vmware host create multiple files ie bookmarks, cookies, prefs - etc        ",Functional Performance Bugs,2
+show file location using custom command on unix-like os        ,Functional Performance Bugs,2
+cannot open local file at named anchor from command line        ,Functional Performance Bugs,2
+saving web pages with illegal/unwanted characters in the file name (replace/escape them) on linux        ,Functional Performance Bugs,2
+"option to sort/order tabs (e.g. alphabetically, by open date, by file date)        ",Functional Performance Bugs,2
+any download freeze firefox until a large amount of file is downloaded        ,Functional Performance Bugs,2
+double download for saving files        ,Functional Performance Bugs,2
+"*.dmg files download via firefox, and the program then attempts to open by launching quicktime.        ",Functional Performance Bugs,2
+"""open file"" dialog shows .exe, .dll files etc        ",Functional Performance Bugs,2
+"using gtk/gnome integration, file inputs cannot be filled from nautilus nor emptied        ",Functional Performance Bugs,2
+browser remembers folder from last attached file on webmail        ,Functional Performance Bugs,2
+selecting a bookmarked directory (linux places) while saving a file wipes the current filename        ,Functional Performance Bugs,2
+firefox freeze system for 3-4 seconds when downloading any file with download manager.        ,Functional Performance Bugs,2
+firefox does not check return value of close() when downloading a file        ,Functional Performance Bugs,2
+saving a pdf file from firefox does not put the file in windows my recent documents list        ,Functional Performance Bugs,2
+completion of a file download always causes firefox to freeze for a few seconds        ,Functional Performance Bugs,2
+firefox fail to load local files with space in their filename/path        ,Functional Performance Bugs,2
+access rights not set properly on files downloaded by firefox.        ,Functional Performance Bugs,2
+run-mozilla.sh requests non-existent file mozilla-firefox-bin (renamed)        ,Functional Performance Bugs,2
+hang when norton internet security blocks installation file which results in firefox not being able to save file        ,Functional Performance Bugs,2
+no notification when closing firefox while downloading file        ,Functional Performance Bugs,2
+firefox add empty line when open big txt file        ,Functional Performance Bugs,2
+"support opening url files (.url, .desktop, .webloc) on all os's        ",Functional Performance Bugs,2
+in case of non well formed xml output firefox denies to show the result or to save to a file.        ,Functional Performance Bugs,2
+firefox hangs when saving file to a pipe        ,Functional Performance Bugs,2
+"unrecoverable hang when shift-command-d is used in ""save file as"" dialog        ",Functional Performance Bugs,2
+wrong file name passed to helper app        ,Functional Performance Bugs,2
+'save page as' saves text files with wrapped lines with extra newline characters        ,Functional Performance Bugs,2
+"add a drop-down list to the ""save file"" value        ",Functional Performance Bugs,2
+downloaded files with firefox do not show the download-resource-information in the file-information (macosx)        ,Functional Performance Bugs,2
+firefox leaves behind /tmp/*.special.part files every time a .special file is opened        ,Functional Performance Bugs,2
+"save as ""all files"" doesn't        ",Functional Performance Bugs,2
+firefox could contain a font viewer for standalone .otf and .ttf files it downloads        ,Functional Performance Bugs,2
+double file entries in file dialog        ,Functional Performance Bugs,2
+in an openfiledialog win/command + a is not selecting all the files in a folder in firefox        ,Functional Performance Bugs,2
+"opening (file) dialog should offer a ""default desktop application"" checkbutton        ",Functional Performance Bugs,2
+relative paths to local files with '#' characters not handled properly        ,Functional Performance Bugs,2
+drag&drop links into file manager to download files        ,Functional Performance Bugs,2
+dlink router- fails to access files (i.e. installing firmware and settings files)        ,Functional Performance Bugs,2
+"""open what to do"" with (dot)do files.        ",Functional Performance Bugs,2
+"when opening a file with an ampersand in it, anything after the ampersand is dropped when calling the program to do the opening.        ",Functional Performance Bugs,2
+origin/access-control-allow-origin header does not allow remote domain access from local file:// resource        ,Functional Performance Bugs,2
+file icons in firefox should have labels inside of them.        ,Functional Performance Bugs,2
+"after redirect, server return text/html type page but browser reports that it's octet/stream and tries to save it as file        ",Functional Performance Bugs,2
+"when ""ask me where to save files"" selected, the save window goes behind the firefox browser which can be annoying.        ",Functional Performance Bugs,2
+there is no way to pass file encoding to external editor        ,Functional Performance Bugs,2
+buttons unclickable with os file window open and a js alert in background        ,Functional Performance Bugs,2
+provide an option to store files opened with helper applications in the downloads directory        ,Functional Performance Bugs,2
+download dialog does not decode multibyte file name in ff3.5.7        ,Functional Performance Bugs,2
+no option for file:\\\ * .<filetype> to open in program outside firefox if textual.        ,Functional Performance Bugs,2
+download manager overwrites downloaded files when firefox is restarted after disk full error        ,Functional Performance Bugs,2
+downloading or viewing .doc files results in an error.        ,Functional Performance Bugs,2
+unable to change default program for 7z files        ,Functional Performance Bugs,2
+"xml ""not well-formed"" error when loading a ooo calc file via file:// url in address field        ",Functional Performance Bugs,2
+save file as request        ,Functional Performance Bugs,2
+files downloaded by firefox are instantly deleted        ,Functional Performance Bugs,2
+file upload dialog firing click event behind itself        ,Functional Performance Bugs,2
+method to save a file to a directory the user doesn't have privileges for        ,Functional Performance Bugs,2
+"for ms visio files with extension *.vsd the ""open with.."" option not available        ",Functional Performance Bugs,2
+"you can't copy the file name in the ""you have chosen to open"" download dialog        ",Functional Performance Bugs,2
+the window shown when download a file should have an option to specify a path different than the default        ,Functional Performance Bugs,2
+option to open file/run file instead of just save file        ,Functional Performance Bugs,2
+attachment file cannot be deleted from trash        ,Functional Performance Bugs,2
+firefox should ask where to save files by default        ,Functional Performance Bugs,2
+"while file downloads, would like site ""root"" to also show with progress        ",Functional Performance Bugs,2
+the signons3.txt file in %appdata% folder does'nt get deleted after i remove the passwords using ui        ,Functional Performance Bugs,2
+saving a many files with same name unconvinient        ,Functional Performance Bugs,2
+tried 4 times to get 3.6.8. keep getting corrupt file error.        ,Functional Performance Bugs,2
+firefox does not know it is the default browser after moving vista user files        ,Functional Performance Bugs,2
+tools->options->applications tab winrar file options inconsistent.        ,Functional Performance Bugs,2
+problem with selection of the downloaded files        ,Functional Performance Bugs,2
+"media player should be default player for video files such as .mov, .mp4, .mpg        ",Functional Performance Bugs,2
+browse file upload box should only show file name that is going to be uploaded        ,Functional Performance Bugs,2
+"waitpid failed pid:31973 errno:10: file /builds/slave/tracemonkey-linux-nightly/build/ipc/chromium/src/base/process_util_posix.cc, line 237        ",Functional Performance Bugs,2
+problem with downloading large files with firefox (for example ubuntu 10.10)        ,Functional Performance Bugs,2
+.part files are not renamed safely        ,Functional Performance Bugs,2
+firefox doesn't use the default file handler when opening downloaded files        ,Functional Performance Bugs,2
+including javascript file causes problems with firefox4 video tag controls        ,Functional Performance Bugs,2
+keep getting chucked out of mozilla3.0.1 every time i open a pps file        ,Functional Performance Bugs,2
+file open/save dialogs open briefly and rapidly close        ,Functional Performance Bugs,2
+opening file from localhost when update for addon installing        ,Functional Performance Bugs,2
+default browser: local .html files open in firefox instead of my preferred editor        ,Functional Performance Bugs,2
+does not set filesystem permissions correctly for directly opened files        ,Functional Performance Bugs,2
+redirect local html file to https        ,Functional Performance Bugs,2
+when uploading an pdf file this is not recognized as an pdf filetype        ,Functional Performance Bugs,2
+the link to the nero essentials doesn't work but neither can i file a report using 'help' in firefox. i can't connect to the server.        ,Functional Performance Bugs,2
+the licence file for this update could not be found...        ,Functional Performance Bugs,2
+"general failure. the url was: ""http://www.someurl.com"" the system cannot find the file specified.        ",Functional Performance Bugs,2
+"authentication dialog on url to file dismisses ""remember password"" window        ",Functional Performance Bugs,2
+wmv video files have become invisible in firefox !        ,Functional Performance Bugs,2
+page updating when opening locally saved html files = 15 second delay        ,Functional Performance Bugs,2
+"upgrade from firefox 3.6 to firefox 4.0 would result ""illegal variable _files or _env or _get or _post or _cookie or _server or _session or globals passed to script.""        ",Functional Performance Bugs,2
+open a group of links all at once from a text file        ,Functional Performance Bugs,2
+intelligent suggestion mechanism for directory where i save my files        ,Functional Performance Bugs,2
+"[win] remove the old file ""urlclassifier3.sqlite"" in roaming part of profile        ",Functional Performance Bugs,2
+unable to open file in mozilla        ,Functional Performance Bugs,2
+firefox does not read plist based webloc or webbookmark files on os x        ,Functional Performance Bugs,2
+add downloaded files to recent documents on freedesktop platforms        ,Functional Performance Bugs,2
+fault with file save dialog while extension downloading        ,Functional Performance Bugs,2
+"close window option, though missing from file menu, is seen by extensions as not missing        ",Functional Performance Bugs,2
+media_cache file delete required to correctly refresh page reload cache        ,Functional Performance Bugs,2
+"browser hang when trying to press toolbar buttons (file, edit, view, etc)        ",Functional Performance Bugs,2
+"mediafire.com  ""file upload failed due to a networks timeout""‏‏        ",Functional Performance Bugs,2
+webworker does not detect js file changes after first use        ,Functional Performance Bugs,2
+v7 link on desktop comes up with can't find file error        ,Functional Performance Bugs,2
+download file by dragging and dropping to destination folder        ,Functional Performance Bugs,2
+view source of selection : menu file : new window        ,Functional Performance Bugs,2
+firefox 7.0.1 is unresponsive when browsing a local directory with many files.        ,Functional Performance Bugs,2
+windows relative url file:/// on mac os: works on windows share but fails on local disk        ,Functional Performance Bugs,2
+firefox 8 upload (html form) dont't work with file more than 481 kb        ,Functional Performance Bugs,2
+"start using another profile than default, for specific file type/protocol        ",Functional Performance Bugs,2
+html5 audio do not load ogg or wav file completely        ,Functional Performance Bugs,2
+"html5 & js: double-clicking on <a> tag thumbnail makes 2 videos play at the same time, so pausing one leaves the other playing in the background (i have sent you a file)..        ",Functional Performance Bugs,2
+xulrunner's temporary file creation results in long latency sometimes        ,Functional Performance Bugs,2
+uploading a torrent file onto nas iomega storcenter ix2 not working        ,Functional Performance Bugs,2
+dijit files are over-aggressively cached causing errors when a dijit-based webapp is upgraded        ,Functional Performance Bugs,2
+cannot copy-paste files from download dialog on osx        ,Functional Performance Bugs,2
+"""safe file..."" window unfocused when clicking on link and then hitting enter at save file/open        ",Functional Performance Bugs,2
+choose in the download dialog if save the file in the standard download folder or somewhere else        ,Functional Performance Bugs,2
+highlight name of downloaded file when opening download folder in file manager        ,Functional Performance Bugs,2
+(win) firefox's file dialog isn't compatible with dialog helper utilities (eg. directfolders)        ,Functional Performance Bugs,2
+firefox cannot open a certificate file on apache web server        ,Functional Performance Bugs,2
+helper application not remembered and dialog box (file picker/chooser) cumbersome/inconvenient        ,Functional Performance Bugs,2
+canceling file upload dialog box creates '/' as file to upload        ,Functional Performance Bugs,2
+"microsoft vc++ assert on file save box ""new folder"" button        ",Functional Performance Bugs,2
+"no question ""overwrite file"" when saving files, which are identical        ",Functional Performance Bugs,2
+pulling a file to the address bar triggers security errors        ,Functional Performance Bugs,2
+"file == ""remote xul"", firefox still registers as handling .xul even though support is disabled by default        ",Functional Performance Bugs,2
+layout bug when file served via https and ff toolbar is visible        ,Functional Performance Bugs,2
+ability to view epub files in firefox        ,Functional Performance Bugs,2
+"if firefox 14 isn't running, opening an associated file (e.g. html) locally launches it twice in separate windows.        ",Functional Performance Bugs,2
+"many reasons to eliminate the error message of the download manager  ""....could not be saved, because the source file could not be read""        ",Functional Performance Bugs,2
+thunderbird on mac osx 10.7/10.8 can't create folders on smb dfs (microsoft distributed file system) shares        ,Functional Performance Bugs,2
+file selection menu broken        ,Functional Performance Bugs,2
+"when i upload the file with letter ""é"" in filename firefox converts this letter to ""&amp;eacute;""        ",Functional Performance Bugs,2
+firefox sucks up memory if opening a humungo .xml file        ,Functional Performance Bugs,2
+downloading file to a pendrive hangs fx now and then        ,Functional Performance Bugs,2
+cannot download a file [application/octet-stream]        ,Functional Performance Bugs,2
+adding an encrypted file synchronization feature to firefox        ,Functional Performance Bugs,2
+firefox hangs while moving already downloaded part of the file to selected destination if it was just mounted on selection.        ,Functional Performance Bugs,2
+if a filename contains a period before the extension (i.e. 10.xxxxxxx.pdf) firefox 10.0.10 does not recognize the file extension        ,Functional Performance Bugs,2
+firefox fails to save pdf file with .pdf file extension depending on how configured        ,Functional Performance Bugs,2
+firefox 20.0 file download may silently fail if browser.download.usedownloaddir = false        ,Functional Performance Bugs,2
+show uri of files being downloaded        ,Functional Performance Bugs,2
+file -> quit command from private window closes all firefox instances        ,Functional Performance Bugs,2
+"files won't open when set to ""open with"" instead of saving, will open when double clicked from download library        ",Functional Performance Bugs,2
+do not allow files which have custom build flags to be added to unified_sources        ,Functional Performance Bugs,2
+"when firefox restarts after crash, it deletes active downloaded files, and starts to download them again, without user permission.        ",Functional Performance Bugs,2
+wide characters wrongly rendered using their ascii equivalents in local file:///'s after long usage        ,Functional Performance Bugs,2
+second vorbis file or stream has no audio output since firefox 26.0 without pulseaudio installed        ,Functional Performance Bugs,2
+firefox for mac os x: drag & drop image saving produces empty files in some instances        ,Functional Performance Bugs,2
+file > save page as... cannot replace loaded document source files        ,Functional Performance Bugs,2
+external programs executed from file:// or mailto: open in background without focus        ,Functional Performance Bugs,2
+browser.helperapps.neverask.savetodisk does not work for .pem file        ,Functional Performance Bugs,2
+firefox freezes while windows is downloading a big file selected using file input        ,Functional Performance Bugs,2
+firefox requesting css files multiple times        ,Functional Performance Bugs,2
+reject moz.build files that specify both force_shared_libs and final_library        ,Functional Performance Bugs,2
+open containing folder doesn't highlight/select file in dolphin (kde)        ,Functional Performance Bugs,2
+firefox won't start because it can't write shared update files        ,Functional Performance Bugs,2
+download manager: some files are not highlighted upon selection        ,Functional Performance Bugs,2
+when saving a downloaded file  there are two problems...remembering and scrolling.        ,Functional Performance Bugs,2
+firefox requests single file multiple times in one page        ,Functional Performance Bugs,2
+window explorer is not opening in firefox for file://        ,Functional Performance Bugs,2
+"ff33.0 will delete a saved webpage instead of overwriting changes, when loading from file with a long filename        ",Functional Performance Bugs,2
+firefox does not remember the last directory when saving files        ,Functional Performance Bugs,2
+context menu in downloads panel is lacking an option to copy the path to the downloaded file.        ,Functional Performance Bugs,2
+"firefox esr  31.2.0 ""print to file"" produces 0 length files when /tmp full        ",Functional Performance Bugs,2
+automatic content detection doesn't work for xml files with byte order mark (bom)        ,Functional Performance Bugs,2
+size of downloaded file appears to be 17179869184 gb while actual file is corrupted        ,Functional Performance Bugs,2
+open downloaded .po translation file in default app        ,Functional Performance Bugs,2
+default profile file copy bug        ,Functional Performance Bugs,2
+firefox does not add a file extension to the download property of an a frame when it should        ,Functional Performance Bugs,2
+firefox is misbehaving by deleting downloaded files        ,Functional Performance Bugs,2
+jpeg image without file extension is saved with jpe extension        ,Functional Performance Bugs,2
+download panel not disappearing after drag&drop a file in ubuntu linux        ,Functional Performance Bugs,2
+mozilla/dom/keyframeeffect.h(19) : fatal error c1083: cannot open include file: 'mozilla/dom/animationeffectreadonly.h': no such file or directory        ,Functional Performance Bugs,2
+files with existing extension but wrong/generic content-type not handled well        ,Functional Performance Bugs,2
+application/pdf files are saved in downloads when using a new profile and pdfjs is disabled        ,Functional Performance Bugs,2
+"file inputs with accept="".tar.gz"" will not accept any files at all        ",Functional Performance Bugs,2
+wrong mime type permanently associated with file extension        ,Functional Performance Bugs,2
+"firefox won't download a .tgz.sig file, but wget works        ",Functional Performance Bugs,2
+access to localstorage across file:// scheme depends on how open files        ,Functional Performance Bugs,2
+"""clear downloads"" may delete .part files of active downloads        ",Functional Performance Bugs,2
+firefox fails to update when there are files with too long names in firefox directory        ,Functional Performance Bugs,2
+"restart firefox (with session restore) after it was killed while downloading file will overwrite file, instead continuing to download where it ended        ",Functional Performance Bugs,2
+"new page ""about:blank"" opened while downloading some files (google chrome setup)        ",Functional Performance Bugs,2
+icons for certain file types do not show under options > applications and in downloads library        ,Functional Performance Bugs,2
+firefox shouldn't let server metadata dictate local file associations        ,Functional Performance Bugs,2
+"firefox detects xml download as ""microsoft help attribute definition file"" on linux        ",Functional Performance Bugs,2
+parsing error with big json files on firefox        ,Functional Performance Bugs,2
+file libmozjs.so: required by ../../toolkit/library/libxul.so        ,Functional Performance Bugs,2
+symlinked app bundle for use as profile launcher causes special paths to use symlink file path rather then actual file pointed to path. this breaks update mechanism of firefox        ,Functional Performance Bugs,2
+firefox shows a separate pdf and portable document format option and refuses to open a pdf file        ,Functional Performance Bugs,2
+session restore files misssing after running app        ,Functional Performance Bugs,2
+"timestamp ""lastaccessed"" written too often to file ""recovery.js""        ",Functional Performance Bugs,2
+provide an option in firefox to set unlimited size for sdd/ram/cpu cores cache for advance users(via configure file or performance ui section)        ,Functional Performance Bugs,2
+firefox on linux crash file opening file browser        ,Functional Performance Bugs,2
+customization configuration files (/etc/firefox)  are ignored (settings overwritten partially in /usr/lib/firefox/defaults/pref)        ,Functional Performance Bugs,2
+"firefox and thunderbird destroy symlink for persdict.dat and other files, like symlink'ed profiles        ",Functional Performance Bugs,2
+"allow associating firefox with those ""other"" file types which it supports - jpeg, png, gif, svg, pdf, bmp, etc.        ",Functional Performance Bugs,2
+avoid displaying suggestion to file a bug report when sending eof to ./mach bootstrap        ,Functional Performance Bugs,2
+firefox focus - content blocker renders image files incorrectly        ,Functional Performance Bugs,2
+no such file or directory error: old-configure failed        ,Functional Performance Bugs,2
+i am forced to kill firefox when windows’s open file dialog freezes        ,Functional Performance Bugs,2
+runtime disclosure of origin of file type <-> application association        ,Functional Performance Bugs,2
+"option to always save files instead of asking me whether to open them, regardless of file type        ",Functional Performance Bugs,2
+headless --screenshot doesn't work with local files        ,Functional Performance Bugs,2
+favicon displays error when attempting to use internal file for image        ,Functional Performance Bugs,2
+the overflow menu in the address bar is hidden for local files        ,Functional Performance Bugs,2
+add file support for network.trr.excluded-domains feature        ,Functional Performance Bugs,2
+firefox download file names should show specific platform        ,Functional Performance Bugs,2
+firefox is unable to save .ogg audio file        ,Functional Performance Bugs,2
+the media tab in page info displays incorrect file sizes        ,Functional Performance Bugs,2
+firefox snap unable to save pages as html file        ,Functional Performance Bugs,2
+spidermonkey fails to compile with clang on armv7: build/dist/system_wrappers/type_traits:3:15: fatal error: 'type_traits' file not found        ,Functional Performance Bugs,2
+user setting to disable navigating to a file dropped onto an active tab        ,Functional Performance Bugs,2
+"when saving a file with a name that already exists, after hitting cancer have the focus switch to the filename        ",Functional Performance Bugs,2
+[kde/flatpak] firefox doesn't open downloaded files in qt applications        ,Functional Performance Bugs,2
+firefox 88-89 won't play webm files on 4chan. unknown mime type        ,Functional Performance Bugs,2
+bookmarks are drained out of the individual folder structure to the main bookmarkfolder after restoring them from file or backup        ,Functional Performance Bugs,2
+drag and drop files into firefox/google drive very slow on kubuntu wayland        ,Functional Performance Bugs,2
+unable to extract text from spooled pdf files generated when a file is printed through firefox browser on mac        ,Functional Performance Bugs,2
+firefox freezes when trying to search in gtk file picker        ,Functional Performance Bugs,2
+firefox can't open files in flatpak programs on linux        ,Functional Performance Bugs,2
+firefox doesn't open many downloaded files or other applications        ,Functional Performance Bugs,2
+"firefox freezes saving files to folder containing lots of images with gtk_use_portal=1 set (linux, kde plasma 5)        ",Functional Performance Bugs,2
+"firefox 99.0.1 installed as snap package in kubuntu 22.04 does not show ""where to save downloaded file"" dialog        ",Functional Performance Bugs,2
+firefox snap 101.0.1-1 on ubuntu 22.04 (latest updates) does not download any files        ,Functional Performance Bugs,2
+firefox misnames its desktop file entry in notifications        ,Functional Performance Bugs,2
+"when saving a file to be downloaded, firefox changes the name erroneously        ",Functional Performance Bugs,2
+"flatpak firefox does not remember its last used directory storage location in ""save"" file dialog        ",Functional Performance Bugs,2
+firefox snap can't access /usr/share/ files        ,Functional Performance Bugs,2
+all firefox windows unresponsive for 60s when starting file download        ,Functional Performance Bugs,2
+firefox crashes when dragging a file on a website        ,Functional Performance Bugs,2
+"firefox picks the ""nimbus sans"" font to substitute helvetica, despite user's edits to font config files to remove it as a helvetica substitute        ",Functional Performance Bugs,2
+uploading (large) files to certain sites fails intermittently from firefox version 101 with trellix dlp hooks        ,Functional Performance Bugs,2
+finished file download started again after ff 106.0.1 upgrade and restart        ,Functional Performance Bugs,2
+"folders and files ""missing"" ie can't be seen in google drive but are searchable        ",Functional Performance Bugs,2
+firefox as version 106.0.5 cannot download large files (approx >2 gb)        ,Functional Performance Bugs,2
+access native messaging host with file write permissions        ,Functional Performance Bugs,2
+"pdf doesn't prompt for location with ""always ask me where to save files"" checked        ",Functional Performance Bugs,2
+disable some nss files in the firefox build        ,Functional Performance Bugs,2
+firefox is not saving edits on a pdf file.        ,Functional Performance Bugs,2
+"""more from mozilla"" svg files can be shrunk further, which should shrink downloadable installer size        ",Functional Performance Bugs,2
+move style overrides from hardcoded layout to css files        ,Functional Performance Bugs,2
+download dialog should display entire url to file (and be selectable)        ,Functional Performance Bugs,2
+firefox file selector should show remote shares        ,Functional Performance Bugs,2
+"""unable to process the backup file"" when importing bookmarks from json backup, but the bookmarks are imported correctly        ",Functional Performance Bugs,2
+local file icon is intermittently flickering when loading https pages        ,Functional Performance Bugs,2
+content area does not get focus after drag & drop a html file to about:newtab page from explorer        ,Functional Performance Bugs,2
+"downloaded file extension unexpectedly changes to html when using ""open with"" and can execute code (based on content type sent by the server that doesn't match filename)        ",Functional Performance Bugs,2
+[enhancement] consider automatically adding the protocol for urls that don’t have it when importing a csv file        ,Functional Performance Bugs,2
+re-position blocked popup icon in the svg file        ,Functional Performance Bugs,2
+[xfa] elements that should not be printed are shown in the printed file        ,Functional Performance Bugs,2
+"(intermittent) ""always open similar files"" is shown as selected (extensions type not added)        ",Functional Performance Bugs,2
+"""file"" type is added to applications on mac when setting a system default on open        ",Functional Performance Bugs,2
+wrong extension-name of setting file when asus router setting saved        ,Functional Performance Bugs,2
+permanent failure for successful windows browsertime and some other tasks filenotfounderror: [winerror 2] the system cannot find the file specified        ,Functional Performance Bugs,2
+smooth out the publishing process for the remote fluent files        ,Functional Performance Bugs,2
+improvement to save file dialog: folder based on url        ,Functional Performance Bugs,2
+"unknown file type prompt doesn't go away after selecting ""save file..""        ",Functional Performance Bugs,2
+[mac] html files saved without .html extension are viewed as plain text        ,Functional Performance Bugs,2
+"file download not recognizing disk full [before downloading, on dismissing file picker]        ",Functional Performance Bugs,2
+"[fix]linux file picker has an extra ""/"" at start of file path        ",Functional Performance Bugs,2
+"set style ""direction: ltr"" to file and url paths in textbox        ",Functional Performance Bugs,2
+[mac] dragging local files to bookmarks toolbar does not work        ,Functional Performance Bugs,2
+don't offer to open non-linked text that looks like urls such as file names        ,Functional Performance Bugs,2
+requesting to get the camera from a file:// url does not show any origin of where the request is being made        ,Functional Performance Bugs,2
+download manager: provide a pre-warning if there is no enough disk space in the target location to complete an intended file download        ,Functional Performance Bugs,2
+"javascript error: ""this.controller is undefined"" {file: ""chrome://browser/content/places/browserplacesviews.js"" line: 216}]        ",Functional Performance Bugs,2
+"large svg file crashes firefox with exception_stack_overflow (with hundreds of nested <g transform=""translate...""> elements in testcase)        ",Functional Performance Bugs,2
+changes to backend input files result in config.status during the build        ,Functional Performance Bugs,2
+windows 8.1: setting firefox as default browser: files and protocols use icons from different branches        ,Functional Performance Bugs,2
+top and bottom images are not displayed in pdf file        ,Functional Performance Bugs,2
+don't use the normal firefox icon for ogg and pdf files        ,Functional Performance Bugs,2
+mozilla print blank pdf files        ,Functional Performance Bugs,2
+provide entrypoint to file bugs in firefox developer edition        ,Functional Performance Bugs,2
+"interrupting e10s firefox with ctrl+c triggers ""###!!! abort: aborting on channel error.: file ipc/glue/messagechannel.cpp, line 1631"", and ""sleeping for 300 seconds"" in debug builds        ",Functional Performance Bugs,2
+remove preprocessing from browser/components/shell xul file        ,Functional Performance Bugs,2
+dragging a large number of files into a webpage hangs firefox on windows for some time        ,Functional Performance Bugs,2
+"os x trying to run a profile from a mounted dmg file (read-only) shows error ""another copy of firefox is running"" (tor 14631)        ",Functional Performance Bugs,2
+firefox can't play renamed .mp3 file        ,Functional Performance Bugs,2
+leaving firefox running during a long time exhausts all my file descriptors        ,Functional Performance Bugs,2
+[devtools][memory] don't hold fxsnapshot files in the windows temporary folder even if quit firefox        ,Functional Performance Bugs,2
+"intermittent browser_save_video.js | video file name is correctly retrieved from content-disposition http header - got web_video1.ogv, expected web-video1-expectedname.ogv        ",Functional Performance Bugs,2
+recent used external applications list (open with..) doesn't appear when downloading a file        ,Functional Performance Bugs,2
+pdf files rendered with wrong color in firefox        ,Functional Performance Bugs,2
+"'allow download' to access blocked file needs better string, implies user has to download again        ",Functional Performance Bugs,2
+firefox file handling flow enhancement        ,Functional Performance Bugs,2
+dragging a file from firefox's open file dialog to the windows desktop doesn't work        ,Functional Performance Bugs,2
+[meta] protection from sites that try to download multiple files automatically        ,Functional Performance Bugs,2
+[meta] remove the ability to delete opened files automatically after viewing them        ,Functional Performance Bugs,2
+split file and protocol handlers in the preferences        ,Functional Performance Bugs,2
+add a permission to allow sites to download multiple files automatically        ,Functional Performance Bugs,2
+application selection for opening downloaded files is different between panel and library        ,Functional Performance Bugs,2
+windows file picker janks entire browser (event chrome ui in e10s mode)        ,Functional Performance Bugs,2
+please add desktop actions to the .desktop file        ,Functional Performance Bugs,2
+"on windows, media file is locked if it was opened in firefox tab (can't delete file. can't delete/rename containing folder)        ",Functional Performance Bugs,2
+renamed tar.gz files breaks linux archive manager        ,Functional Performance Bugs,2
+"when requesting https file download from location bar, not warned if file is delivered over http instead        ",Functional Performance Bugs,2
+marionette test files for chrome scope should not be shipped with firefox        ,Functional Performance Bugs,2
+firefox hangs opening extremely large files on searchfox        ,Functional Performance Bugs,2
+move about:sync-log from chrome process to file content process        ,Functional Performance Bugs,2
+"when --jsdebugging is supplied, make it so that firefox-appdir doesn't need to be in the xpcshell.ini file        ",Functional Performance Bugs,2
+go to download page option active in library for some downloaded files        ,Functional Performance Bugs,2
+dragging image from firefox to desktop results in wrong file perms on osx        ,Functional Performance Bugs,2
+remove file icon from download list for missing files in download library        ,Functional Performance Bugs,2
+when downloading more than 6 files at the same time causes the downloads greater than 5 or 6 not to download or be displayed in the download panel        ,Functional Performance Bugs,2
+firefox sometimes add .xls to .xml file when downloading with the correct mimetype        ,Functional Performance Bugs,2
+main-thread load of etld file slows startup        ,Functional Performance Bugs,2
+jank when downloading a file to a network drive        ,Functional Performance Bugs,2
+save file dialog no longer appears for pdf's        ,Functional Performance Bugs,2
+getscreenshot error: unix error 2 during operation open on file        ,Functional Performance Bugs,2
+can't update <options | general | files and applications | applications> table for new <content type>        ,Functional Performance Bugs,2
+cancelled downloads in private browsing will delete files of the same name on exit        ,Functional Performance Bugs,2
+firefox gui freezes on saving files and navigating mtp device. possibly on slow filesystems as well        ,Functional Performance Bugs,2
+"[parent 3196, gecko_iothread] warning: pipe error (155): conexión reinicializada por la máquina remota: file /build/firefox-xqemv3/firefox-57.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353        ",Functional Performance Bugs,2
+avoid file.exists() --> read file antipattern in migrator code        ,Functional Performance Bugs,2
+opening file from download panel ignores mime type association but from library it works fine.        ,Functional Performance Bugs,2
+unable to render specific pdf file.        ,Functional Performance Bugs,2
+dragging/dropping a file destroys current tab history even if cancelled        ,Functional Performance Bugs,2
+"incorrect suggested ""save page as"" file name for xslt files        ",Functional Performance Bugs,2
+"assertion: need a gtk window for dialog to be modal.: 'gtkparent', file /builds/worker/workspace/build/src/widget/gtk/nsprintdialoggtk.cpp, line 168        ",Functional Performance Bugs,2
+firefox interprets files with two content-type headers differently when reopening a closed tab        ,Functional Performance Bugs,2
+ns_error_dom_media_metadata_err (0x806e0006) - firefox does not play mp3 file with riff header through htmlaudioelement        ,Functional Performance Bugs,2
+file not present after doing save-as        ,Functional Performance Bugs,2
+visual glitches are triggered on zoom inside a pdf. file        ,Functional Performance Bugs,2
+default reading installer ini file from the same file as the installer        ,Functional Performance Bugs,2
+investigate serving the list of executable files remotely or in a hotfixable way        ,Functional Performance Bugs,2
+pdf download does not save file extension        ,Functional Performance Bugs,2
+"[javascript error: ""typeerror: doc is null"" {file: ""resource:///actors/contextmenuchild.jsm"" line: 501}]        ",Functional Performance Bugs,2
+clicking pdf viewer 'current view' button does not work for pdfs accessed from local file (cannot link to file: protocol from the unprivileged `resource` pdf viewer page)        ,Functional Performance Bugs,2
+"""file moved or missing"" interaction is incorrect (can be hovered; shows magnifying glass) in downloads subview in the library        ",Functional Performance Bugs,2
+"""open file"" obeys site-specified content types too aggressively        ",Functional Performance Bugs,2
+opening a file downloaded as application/octet-stream has inconsistent behavior in firefox        ,Functional Performance Bugs,2
+"tab store refactor: (1) debounce, (2) stop storing in db and as serialized file        ",Functional Performance Bugs,2
+homepage.jsm tries to open about:home (or user-set homepage) as a .properties file        ,Functional Performance Bugs,2
+cannot select firefox as a helper application for html files        ,Functional Performance Bugs,2
+unable to open downloaded .mp4 file in firefox        ,Functional Performance Bugs,2
+"warning: ns_ensure_true(!mhasorhashadownerwindow || mownerwindow) failed: file /builds/worker/workspace/build/src/obj-firefox/dist/include/mozilla/domeventtargethelper.h, line 145 when adding event listener on video.texttracks        ",Functional Performance Bugs,2
+pdf output fails or is corrupted when switching tab during printing        ,User Interface,0
+"global windows ""use as a mouse"" pen setting in firefox        ",User Interface,0
+firefox frontmost window not working with multiple profiles        ,User Interface,0
+pinned links in windows 7 jumplist disappear after upgrading firefox        ,User Interface,0
+select all tabs + close one tab = close all tabs        ,User Interface,0
+firefox 62 does not automatically resize if screen is smaller than the window size.        ,User Interface,0
+firefox opens in the background when using choose profile feature in windows 10        ,User Interface,0
+write reflow tests for tab reordering and tab detaching        ,User Interface,0
+restore all tabs doesn't work when the only tab that's open is a new tab        ,User Interface,0
+url content is announced before the tab switch event        ,User Interface,0
+focused firefox windows (and another applications windows) become invisible when notifications from site identity block appear        ,User Interface,0
+"[windows 7] the ""tab bar"" no longer respects the ""alpenglow"" theme colors if the browser is resized and the ""windows 7 basic"" os theme is active        ",User Interface,0
+firefox sync cause windows jumplist broken        ,User Interface,0
+[synced tabs sidebar] search box does not have clear icon on mac        ,User Interface,0
+menus do not display correctly in multi screen environment if firefox window is not on primary screen        ,User Interface,0
+[e10s] tab page thumbnail/preview intially appears blank right after dragging        ,User Interface,0
+tab label and native title bar flashing when page reloaded(f5)        ,User Interface,0
+slide tabs stuck        ,User Interface,0
+"e10s ""busy tab spinner"" overlaying content while process not busy        ",User Interface,0
+enhancement: optional setting to block pop-ups in same window        ,User Interface,0
+australis tab gradient is too harsh on dark color themes        ,User Interface,0
+"about:home and about:newtab have different zoom levels even when both are configured for home and new tabs, respectively        ",User Interface,0
+pdf viewer's search highlight is barely distinguishable in windows high-contrast mode        ,User Interface,0
+"when all other toolbars are hidden, tabs look ugly with any addon's toolbar.        ",User Interface,0
+window gaps(left/right edge) when restoring previous sessions        ,User Interface,0
+tab bar vibrates when browser.tabs.tabminwidth set lower        ,User Interface,0
+does not open new tab        ,User Interface,0
+"[e10s] consider wiping static mem after a tab crash, or look at auditing code for such bugs        ",User Interface,0
+"intermittent browser_bug380960.js | tab removed immediately - got [object xulelement], expected null | found an unexpected tab at the end of test run: about:blank -        ",User Interface,0
+"inconsistent zoom behavior with main window and those opened with ""open link in new window"" or shift+click depending on cursor position        ",User Interface,0
+"windows asan nightly setup ""maintenanceservice_tmp.exe - system error""        ",User Interface,0
+clicking outside the sharing doorhanger will not remember the last chosen application (window) in the sharing drop down        ,User Interface,0
+undo closed tabs doesn't work if you try to switch to pb right after closing all tabs        ,User Interface,0
+"a ""stop all"" button for use on startup/restoring tabs        ",User Interface,0
+ctrl+shift+t tabs to open in background        ,User Interface,0
+firefox developer edition (windows) doesn't open on first try        ,User Interface,0
+"give distributions more control over the display of their name (id) in the ""about"" window        ",User Interface,0
+lost all tabs after a nightly upgrade over the weekend        ,User Interface,0
+contextual identity is not preserved for a tab that was open as discarded        ,User Interface,0
+firefox view saves my tabs despite me selecting in the setting to not remember my history        ,User Interface,0
+middle-click on a search bar completion or search engine options doesn't open new tab in foreground like location bar and bookmark        ,User Interface,0
+"add automated test for ""new tab preferences - top stories - disable""        ",User Interface,0
+subdialog windows won't open on sparc solaris        ,User Interface,0
+the address bar remains empty if it takes a long time to connect to a host after opening a link in a new window        ,User Interface,0
+"[e10s] when the content process crashes, back/fwd menu is unavailable and the tab crash page itself provides no way to go back either        ",User Interface,0
+[ux] the sharing permission should be removed when the shared window is being closed        ,User Interface,0
+"when i open [exe] ""elearning xhtml editor"" a web based elearning editor after launching firefox, [exe] opens as a tab and no pop-ups could open        ",User Interface,0
+"attributes are not persisted correctly, if the tab is never restored        ",User Interface,0
+custom tab sizes in userchrome.css breaks the tab bar        ,User Interface,0
+can accidentally create new window when clicking on pinned tabs        ,User Interface,0
+top tabs bar is partially displayed when attempting to drag and drop links        ,User Interface,0
+cookie management under container tabs        ,User Interface,0
+firefox doesn't resize in xmonad on launch in a smaller window.        ,User Interface,0
+scrolling a background firefox window using touchpad causes it to jump to foreground        ,User Interface,0
+small window of time before wifi is connected that location bar will not react        ,User Interface,0
+option to open new tab to the immediate right from current tab        ,User Interface,0
+firefox drag tab not full screen on xfce        ,User Interface,0
+title of new tab not updated after redirect or location.replace when target page has no <title>        ,User Interface,0
+firefox shrink window at launch        ,User Interface,0
+add telemetry to measure sent tab failures        ,User Interface,0
+highlight differs on the tabs bar on windows 7        ,User Interface,0
+"""warn me when closing multiple tabs"" does not warn when using ctrl-shift-w        ",User Interface,0
+"""switch to tab"" doesn't appear when searching in awesomebar via typing in special characters after search term        ",User Interface,0
+inconsistent selected color with keyboard of one-off search popup in new tab page        ,User Interface,0
+windows installer incorrect version number        ,User Interface,0
+reword open in a new window to open in a new private window        ,User Interface,0
+don't clean up window message listeners for sessionstore if we're in the midst of a shutdown        ,User Interface,0
+pressing tab does not give full-focus to bookmarks list in sidebar        ,User Interface,0
+"disabling ""warn me when i attempt to close multiple tabs"" is impossible        ",User Interface,0
+the proton design tab button has uneven margin on left and right        ,User Interface,0
+some new tabs >1.5mb while the others are ~262kb        ,User Interface,0
+firefox hangs when opening new window or tab from another application        ,User Interface,0
+firefox should show thumbnail previews of svg images in windows explorer        ,User Interface,0
+when a youtube.com tab is restored using ctrl+shift+t video should start were it was instead of from the beginning        ,User Interface,0
+tab prompt support for select prompts        ,User Interface,0
+http authentication with tab-modal shows last page's window title        ,User Interface,0
+building nightly 74: gah. your tab just crashed        ,User Interface,0
+add option to settings to enable session restore for private tabs on crash in firefox (nightly)        ,User Interface,0
+text not appear on customize tab dropdowns in dark theme        ,User Interface,0
+investigate browser_windowopen_reflows.js perma-failures on windows 8 x64 and re-enable by default        ,User Interface,0
+firefox esr 64 bit does not show up in default apps on windows 10        ,User Interface,0
+hardware acceleration is making firefox tab bar glitch in windows 10        ,User Interface,0
+rendering window not resized to actual window size        ,User Interface,0
+open tabs lose container association on restart        ,User Interface,0
+multiple windows opened when clicking hyperlinks in third party software        ,User Interface,0
+extremely high memory usage with only 1 or 2 tabs open.        ,User Interface,0
+new tabs opens a new window instead        ,User Interface,0
+firefox on macos full screen shows save window overlapped        ,User Interface,0
+new tab: update meatball menu focus effects when newnewtab is enabled        ,User Interface,0
+"intermittent browser_bug1015721.js | tab 2 should have zoomed along with tab 1 - got 1, expected 1.1        ",User Interface,0
+right click search should open in a new window when tabbed browsing disabled        ,User Interface,0
+rfe popup blocker is not effective against ajax/javascript type modal windows        ,User Interface,0
+website options window > more information (ui bug)        ,User Interface,0
+dragging firefox tab into spotify desktop app instantly crashes firefox        ,User Interface,0
+[rfe] add permission for link targets to open a new window / new tab        ,User Interface,0
+firefox last window cannot be closed with window's close ('x') button        ,User Interface,0
+"with tab animations disabled, closing current tab to switch to another will visibly load        ",User Interface,0
+firefox hardware acceleration window orientation        ,User Interface,0
+"pressing tab key when ""choose from thousands of add-ons"" link is focused activates link (opens about:addons)        ",User Interface,0
+i want to refresh an existing tab but a new one is opened        ,User Interface,0
+"add automated test for ""top stories - context menu - open in a new private window""        ",User Interface,0
+inconsistency when using force touch in tabs tray (pick and pop)        ,User Interface,0
+difficult to install firefox 45 esr on windows server 2008 standard sp2        ,User Interface,0
+starting tab doesn't close until opening and closing a new tab.        ,User Interface,0
+"full tab bar responds to up/down scrolling, but not sideways scrolling.        ",User Interface,0
+tapping link that opens in new tab shows keyboard        ,User Interface,0
+opening rss feed while inprivate window causes feed to be opened in non-private window        ,User Interface,0
+firefox update 75.0 lost most of my tabs (not all) using orderly update/restart of firefox        ,User Interface,0
+accessibility: indicate the selected tab for screen reader users        ,User Interface,0
+firefox hangs when i want to open the options window        ,User Interface,0
+click on pin/link to a local page (e.g. file:///c:/index.html) on about:newtab page do not load content into new created and open tab view        ,User Interface,0
+firefox 84.0.2 on windows 10 does not delete site preferences when firefox is closed        ,User Interface,0
+language is changed when i tab from input element  into a content editable iframe        ,User Interface,0
+[meta] suppress the windows »waiting« cursor when possible        ,User Interface,0
+firefox doesn't support windows 11 multiple desktops properly        ,User Interface,0
+"""homepage and new windows"" breaks the ability to open a new window *without* home pages        ",User Interface,0
+add recently closed tabs to the tab context menu        ,User Interface,0
+"on gnu+linux some pages ""steal"" the alt+1 hotkey so the firefox hotkey alt+1 to switch tabs doesn't work anymore        ",User Interface,0
+saved tabs open different links when firefox reopened        ,User Interface,0
+"when pulling out tab into separate window with inspect mode open, the new window closes inspect mode 102.0 firefox for ubuntu        ",User Interface,0
+the manage devices... option is too close to the bottom edge of the send tab to device submenu        ,User Interface,0
+bookmark all tabs creates bookmarks that have no title and icon for tabs in reader view mode.        ,User Interface,0
+can't unmute tabs when sound isn't playing        ,User Interface,0
+firefox window size does not adapt to windows remote desktop        ,User Interface,0
+regression: a bright flicker appears on the new tab page when opening a new window in system dark mode        ,User Interface,0
+"[meta] desktop work required for better ""send tab"" (aka pushbox) prototype        ",User Interface,0
+event (e_opened_new_tab) not triggered when opening a new tab via long press on tab counter        ,User Interface,0
+window doesn't restore to maximized after minimizing to superbar        ,User Interface,0
+leftmost tab should have a left border on overflow        ,User Interface,0
+troll links shouldn't be allowed to open hundreds of tabs at once        ,User Interface,0
+tabs are not always restored        ,User Interface,0
+inactive windows sometimes paint on top of firefox        ,User Interface,0
+tabs don‘t go away when tapping on close in ipados        ,User Interface,0
+"when opening firefox 102.1.0esr (and firefox 103.0) under the openbox window manager and switching to fullscreen mode, the minimize, restore and close buttons do not appear        ",User Interface,0
+tab sync between android and win64dev edition is outright broken        ,User Interface,0
+tabs no longer fade        ,User Interface,0
+when closing windows one by one until quitting we should be able to revive more windows than max_undo_windows        ,User Interface,0
+"""open all in tabs"" should be unavailable when opening context menu on recently bookmarked section header and on other non-bookmark items (in both the main bookmarks menu and the bookmarks toolbar button menu)        ",User Interface,0
+no tabs visible after firefox was launched by external program. (link to check for updates)        ,User Interface,0
+tab insertion marker moves too far when dragging a tab        ,User Interface,0
+minimizing browser should set active state of its topmost tab to false        ,User Interface,0
+tabs (and page) smooth scrolling animation duration is hard coded        ,User Interface,0
+firefox does not display theme icons under openbox windows manager        ,User Interface,0
+inactive firefox window accepts clicks instead of just bringing firefox window to top        ,User Interface,0
+don't use shutil.copy2 in mozpack.files.*.copy on windows        ,User Interface,0
+"pinned tabs doesn't restore after quit & restart. (session restore doesn't work, either)        ",User Interface,0
+firefox home empty and pinned tabs gone        ,User Interface,0
+window controls are too far to the right on windows 7 (browser windows only)        ,User Interface,0
+unpinning a tab doesn't scroll it into view & scroll button state doesn't update        ,User Interface,0
+firefox windows go blank when moving across screens with different scale levels on windows 10        ,User Interface,0
+unable to manually clear recently closed tabs        ,User Interface,0
+firefox crash using window fatigue        ,User Interface,0
+"when download manager window open, difficulty switching amongst firefox windows        ",User Interface,0
+'open link in new tab and switch to it' menu item        ,User Interface,0
+"move ""recently closed tabs"" from menu into sidebar: ""view"" ""by last viewed""        ",User Interface,0
+cli option to switch to existing tab if a website is already opened        ,User Interface,0
+show passwords in about:logins asks for wrong windows credentials (smart card instead of user-password)        ,User Interface,0
+"virus total flagging firefox (full download windows, 64-bit, english)  version 78.0.2 with this detection maxsecure win.mxreslcn.heur.gen        ",User Interface,0
+add the possibility to use backgroundpagethumbs for all new tab thumbnails        ,User Interface,0
+"""save tabs"" dialog in linux doesn't follow the gnome human interface guidelines        ",User Interface,0
+"customize-mode: allow ""space"" between pinned tabs        ",User Interface,0
+duplicating background tab via context menu creates new tab in wrong position        ,User Interface,0
+"[ubuntu][search bar] ""change search settings"" is partially displayed if the window is on half of the screen        ",User Interface,0
+move selected tabs: add support for dragging and dropping pinned and unpinned tabs        ,User Interface,0
+list of all windows and tabs        ,User Interface,0
+open multiple tabs becomes slow        ,User Interface,0
+firefox hardware accelerated video decoding seems to have stopped working after the latest windows update        ,User Interface,0
+"location bar says ""search or enter address"" on unrestored tabs for a short time after switching to it        ",User Interface,0
+ff (at least dev edition) requires you to create a config preference to allow tab focusing of links        ,User Interface,0
+tabs from other devices menu not showing synced tabs        ,User Interface,0
+closing a pinned-tab less window last removes all pinned tabs        ,User Interface,0
+"window id in request header wanted, to solve problem of session merging        ",User Interface,0
+ios: add send tab event telemetry to measure user funnels        ,User Interface,0
+"when the mouse is over the tab, the focus go to the menu        ",User Interface,0
+expose cubeb loopback devices to firefox for testing on windows        ,User Interface,0
+copy/paste from source window inserts blank lines        ,User Interface,0
+pdf fails to display in firefox tab        ,User Interface,0
+cycle through windows menu option missing        ,User Interface,0
+location bar is cleared after a slight delay after opening private window        ,User Interface,0
+new tab tab opens new window        ,User Interface,0
+incorrect remoteness on lazy tab browsers upon session restoring a non-remote tab        ,User Interface,0
+open previous windows and tabs is not working        ,User Interface,0
+enable control of stuff opened in new tabs        ,User Interface,0
+menus no longer work when a lot tabs open        ,User Interface,0
+white shading on new tab bar is ugly/hard to read if not using standard dark-on-light theme        ,User Interface,0
+"""menu bar"" entry in ""popup"" window inoperative on ""popup"" window        ",User Interface,0
+firefox will zoom in randomly when i use control tab to scroll through my open tabs.        ,User Interface,0
+firefox did not warn user when many tabs were close despite enabling option.        ,User Interface,0
+cmd-shift-] stops working for tab navigation if keycode 221 is handled by the page itself        ,User Interface,0
+[session restore] provide an api to tell a window is restoring or not        ,User Interface,0
+call gets frozen if closing the firefox tab during a web.ciscospark call        ,User Interface,0
+assign tab label to bookmark        ,User Interface,0
+add automatic setup of windows build environment to sccache        ,User Interface,0
+gather telemetry about tab warming        ,User Interface,0
+tab load and reload fails after some hours        ,User Interface,0
+thunderbird and firefox freeze after windows wake from sleep when using smartcard        ,User Interface,0
+when opening the sidebar don't shift the tab modal        ,User Interface,0
+intermittent browser_600545.js | found an unexpected tab at the end of test run: http://example.com/#1 -        ,User Interface,0
+"on windows 7, yellow dotted focus rings for currently selected item in the library looks weird when using light themes        ",User Interface,0
+firefox doesn't rerender canvas until i switch tabs        ,User Interface,0
+implement highlighting tabs (browser.tabs.highlight api)        ,User Interface,0
+[gtk3] selected tab color in firefox dark theme not consistent with system dark theme.        ,User Interface,0
+hole between tabs after closing tab in middle (.tabbrowser-tab:not([pinned]) { max-width   and   min-width)        ,User Interface,0
+address bar not focused on new window        ,User Interface,0
+"ff4 app tab urls should act more like bookmarks, and not be current-page persistent across restarts        ",User Interface,0
+current theme should be shown on new tab customize        ,User Interface,0
+the focus changes from window to window involuntarily        ,User Interface,0
+give sites some means of recognizing when a new tab has been opened        ,User Interface,0
+'open a new tab' (+) button and tab scroll buttons have missing tops on mouseover        ,User Interface,0
+ctrl+alt+w or ctrl+opt+w should close all tabs except the active one        ,User Interface,0
+"the ""manage account"" link should always open in a non-private window        ",User Interface,0
+cannot undo recently closed tabs in separate windows        ,User Interface,0
+minimising a firefox 3.6x window with photoshop cs2 running forces focus onto photoshop and causes it not to be able to maximise properly        ,User Interface,0
+pinning app tab scrolls tabs to far left        ,User Interface,0
+tab key does not work        ,User Interface,0
+private window doesn't follow system theme in firefox 106 on kde plasma        ,User Interface,0
+"""open link in new tab"" from context menu or from modifier-click should do the same thing        ",User Interface,0
+opening firefox with saved tabs the music starts to play        ,User Interface,0
+"firefox new tab title's not reported correctly until i change language in the browser settings (""new tab — mozilla firefox"")        ",User Interface,0
+flickering images all over the firefox window after duplicated display standby        ,User Interface,0
+tab moving in the tab bar has visual issues        ,User Interface,0
+"firefox shows nan (not a number)  using type=""number"" in windows 10 when date,time format is persian        ",User Interface,0
+previously opened firefox window is not focused when opening a link from other applications        ,User Interface,0
+proposal: move all 32-bit firefox users on windows 64-bit systems to 64-bit firefox via updates.        ,User Interface,0
+scrollbar on reddit scrolls beyond bottom of window when firefox is maximised        ,User Interface,0
+"[windows 10] on a headless machine, firefox is unusable, all-white, blank, browser window        ",User Interface,0
+firefox 78 x64 and newer on windows after a while becomes slow        ,User Interface,0
+windows/desktop are showing through the firefox window.        ,User Interface,0
+"when closing a pop-up tab, ff asks twice if i want firefox to remember and restore all my tabs the next time i start firefox        ",User Interface,0
+applying fullscreen mode on html5 videos on youtube cause windows 8 snapping features to stop        ,User Interface,0
+"ff nightly 90: ""open in new container tab"" animates old tab out into separate window        ",User Interface,0
+win7 jump lists items command to other process firefox's window        ,User Interface,0
+start up option 'show my windows and tabs from last time' combined with homepage        ,User Interface,0
+last opened tabs were not loaded        ,User Interface,0
+prefs.js creation causing 2 firefox windows with custom prefs (mozilla.conf)        ,User Interface,0
+does not support windows 7 flick navigation        ,User Interface,0
+navigation toolbar shows in fullscreen mode after switching from about:addons to another tab        ,User Interface,0
+"""open new windows in new tab"" option has changed behaviour from previous versions        ",User Interface,0
+tab to search onboarding is not accessible (as well as any dynamic result)        ,User Interface,0
+ctrl+w is attempting to close all tabs vs. open tab or window (pop-up email window).        ,User Interface,0
+the “confirm close” dialog does not inform you about how many hidden tabs you have        ,User Interface,0
+"tab menus(when right click the mouse) have ""bookmark all tabs..."" item, but not ""bookmark this page"".        ",User Interface,0
+firefox unloads tabs with entered text (data loss issue) without low memory condition        ,User Interface,0
+"firefox drop down menus are ignoring ""always on top"" property of other windows.        ",User Interface,0
+scrolling page with a touch screen scrolls also in the tab bar        ,User Interface,0
+firefox window doesn't get focused after using the jump list        ,User Interface,0
+windows classic look - favicons are hardly visible        ,User Interface,0
+"determine if the indicator needs to be in the ""window"" list on macos        ",User Interface,0
+"firefox ""menu"" different between windows        ",User Interface,0
+"when a minimized window has a dialog sheet, clicking firefox icon in dock won't restore it        ",User Interface,0
+tabs disappear        ,User Interface,0
+text centred to line-height is rendered a pixel lower in windows 7 & 8 versions of firefox compared to windows 10 firefox as well as all other major browsers.        ,User Interface,0
+opening the pocket subview in m-bc leads to leaked windows and a docshell        ,User Interface,0
+show tab favicons immediately        ,User Interface,0
+new windows do not retain firefox/windows themes correctly        ,User Interface,0
+new tab button styling looks different from tabs        ,User Interface,0
+options window opens on the wrong monitor in windows 8.1 when snapped        ,User Interface,0
+two tabs active at the same time        ,User Interface,0
+responsive issue with resizing window in in firefox developer        ,User Interface,0
+[enhancement] let accel+w on a pinned tab switch back to the previous tab instead of the first unpinned tab        ,User Interface,0
+"firefox crashes when opening a link in a new tab if using debug version of direct3d 9 (windows xp) and ""break on d3d error"" is set        ",User Interface,0
+[meta] [qa-1445] windows firefox default pdf handler - qa bug tracking        ,User Interface,0
+drag and drop of text or link should put it in address bar of a new tab (super dnd)        ,User Interface,0
+should be able to undo changes in bookmarks from browser window (not only in library)        ,User Interface,0
+provide a toggle for the search box in private browsing tabs        ,User Interface,0
+restore previous session is broken in 67.0 ... it only remembers the leftmost 10 tabs        ,User Interface,0
+sidebar throbber not updated in photon to match tab throbber        ,User Interface,0
+"a separate content process should be used for each pdf.js tab, or perhaps shared between all pdf.js tabs        ",User Interface,0
+firefox snap crashed with x window system error 'badvalue'        ,User Interface,0
+no aero blur applied on floating box borders in firefox on windows        ,User Interface,0
+"show a specific set of app tabs on work, home, etc. when user selects it.        ",User Interface,0
+parts of window black out on second monitor (firefox str in comment 4)        ,User Interface,0
+subsequent 'new window' requests spawn irregularly shaped windows.        ,User Interface,0
+key and context menu item to open links in current tab        ,User Interface,0
+in normal view only some tabs in view - no option for others        ,User Interface,0
+rendering artifacts when firefox window spans across multiple screens        ,User Interface,0
+send tab should be an option when links are pressed and held in safari        ,User Interface,0
+clickable areas on tabs doesn't extended to the top of the screen on 4k monitors.        ,User Interface,0
+rename send tab action extension so that it's identifiable as a firefox feature        ,User Interface,0
+record fx_tab_switch_composite_e10s_ms when we display the tab before layers are available        ,User Interface,0
+right click on selected navbar text open in new tab        ,User Interface,0
+open a new private window from a private window and you have cookies from the first one        ,User Interface,0
+"ipad animation polish: tab tray delete last tab, tab animation reverses        ",User Interface,0
+unloaded session restored tabs cannot be moved to a new window        ,User Interface,0
+"send tab to device:- if i have only one other device, don't show list of devices(same for firefox on android)        ",User Interface,0
+"unable to adjust height, and width of devtools window (firefox-nightly)        ",User Interface,0
+floating windows are closing when clicking outside of firefox in ubuntu        ,User Interface,0
+ctrl+tab navigation is not working when list all tabs is opened        ,User Interface,0
+"navigator toolbar favicon does not match tab favicon when viewing ""offline mode"" message.        ",User Interface,0
+firefox does not render window contents after startup        ,User Interface,0
+"""open a new tab"" button is not visible when the browser is out of focus        ",User Interface,0
+"scroll bar from the “hidden tabs” and ""all tabs"" menu is not fully displayed in maximized windows        ",User Interface,0
+minimized firefox windows expand when new firefox instance is run.        ,User Interface,0
+"remove ""similar"" tabs across devices in tab pickup list        ",User Interface,0
+xbox gamepad mapped differently in firefox on linux and windows        ,User Interface,0
+cannot tell tab order        ,User Interface,0
+tabs alignment bug        ,User Interface,0
+"reword ""open link in new private window"" to ""open link in private window"" and open the link in the existing private window, if there is one        ",User Interface,0
+open link to right of current tab via context menu        ,User Interface,0
+building spidermonkey on windows under visual studio 2019        ,User Interface,0
+problem with browser.sessionstore.restore_on_demand for pinned tabs when disabled for normal tabs (nightly v.62.0a1)        ,User Interface,0
+tabs show the url name but awesomebar shows about:blank and tab cannot be loaded or refreshed and is gone from the data storage        ,User Interface,0
+"after initially launching firefox via keyboard shortcut for windows shortcut that points to firefox executable, can't open new firefox instance using any windows shortcut that points to the firefox executable        ",User Interface,0
+private window session data not erasing after closing the window.        ,User Interface,0
+windows taskbar disappearing when moving full-sized firefox window to main display        ,User Interface,0
+firefox freezes when you move stumble upon toolbar to the tab bar.        ,User Interface,0
+playing music on soundcloud causes massive cpu load with tab in foreground        ,User Interface,0
+reinstate a custom url setting for new tab        ,User Interface,0
+"when i have multiple tabs open, sometimes when i navigate through them, the moment i click the tap, it closes ungracefully. it often happens when am working on something which does not need to be closed.        ",User Interface,0
+investigate why enterprise policies are active when more from mozilla tests run on windows 10        ,User Interface,0
+repositioning/moving tabs freezes browser        ,User Interface,0
+"cfr/""doorhanger"" modals shouldn't hang past the right of the browser window        ",User Interface,0
+"the tab switch warning is improperly displayed on linux, on a specific system        ",User Interface,0
+when shutting down windows (or logging out) firefox can't be killed by windows        ,User Interface,0
+notification on gnome only opens the correct tab if no firefox windows is currently focused        ,User Interface,0
+user is able to press cmd+q or firefox->quit multiple times while the close multiple tabs quitting dialogue box is open [mac]        ,User Interface,0
+"ubuntu mate, multiple images in an array don't load correctly when resizing window to half screen        ",User Interface,0
+"add automated test for ""new tab preferences - top sites - enable show tow rows""        ",User Interface,0
+[experiment] [macos] the “vpn promo” infobar is not displayed if a successful login is done from the os captive portal login window        ,User Interface,0
+"selecting a synced tab from the awesome bar should open a new tab rather than replacing the current tab, for consistency with ""switch to tab""        ",User Interface,0
+"when attempting to start sharing the screen, camera sharing is being stopped (on linux, macos and windows 7)        ",User Interface,0
+"""find"" bar cannot be closed. at the same time, ""open a new tab"", bookmarks toolbar and reloading page doesn't work.        ",User Interface,0
+expand windows 10 search redirection to post plugins        ,User Interface,0
+tab can not be opened on application start        ,User Interface,0
+"when i click with the new tab and the left click button at the same time, my mouse cursor gets stolen.        ",User Interface,0
+opening a new tab sometimes causes both the new tab and the old tab to show up as selected in win10 tablet mode        ,User Interface,0
+"[linux] when picture in picture is active, new windows appear beneath firefox's main window        ",User Interface,0
+recently closed windows inactive (not shown in restore list) until after you press restore        ,User Interface,0
+"when a link is highlighted, pressing ctrl+enter should open it in a new tab. ctrl+shift+enter should open in a new window        ",User Interface,0
+firefox window resized and pointer in wrong coordinates after suspend in ubuntu 20.04        ,User Interface,0
+issue with switching tabs when firefox window is split-screen        ,User Interface,0
+cannot have two tabs on the same web page        ,User Interface,0
+unknown software exception on start up or new tab creation        ,User Interface,0
+the new tab page title appears in the window after session restore        ,User Interface,0
+allow moving a window by dragging empty areas        ,User Interface,0
+firefox window freezes when zooming in on an image        ,User Interface,0
+'lazy' tab loading and tab previews interact badly        ,User Interface,0
+duplicating a pinned tab creates a normal tab        ,User Interface,0
+window moved to foreground after session-restore after having alt-tabbed away        ,User Interface,0
+mistery tab still open after close then cannot create or switch tab        ,User Interface,0
+new tab generates slow script dialogs for preview generation        ,User Interface,0
+"after updating and restarting nightly with two windows open on two external monitors, both windows are re-opened on one external monitor.        ",User Interface,0
+recently closed windows empty after restart        ,User Interface,0
+favicon from last visited page remains active for new visited page with no favicon associated in windows taskbar        ,User Interface,0
+opening multiple tabs does not highlight point of origin        ,User Interface,0
+firefox opens two empty windows when opening links in thunderbird email        ,User Interface,0
+tabs and checkboxes in firefox 3 look glitchy        ,User Interface,0
+measure new window performance        ,User Interface,0
+the user should not be able to share the global sharing indicator window        ,User Interface,0
+address bar is not focused when first firefox window is opened and add-on page is set as homepage        ,User Interface,0
+recently closed windows not updated in history        ,User Interface,0
+"""undo close tab"" does not scroll down to proper link (anchor?) in bugzilla        ",User Interface,0
+show all tabs doesn't work in permanent private mode        ,User Interface,0
+allow extensions to add content to firefox view or the new tab page        ,User Interface,0
+do longitudinal analysis on fx_tab_switch_spinner_visible_long_ms probe to see how many of our users see really bad tab switch spinners        ,User Interface,0
+window tabs design on light vs dark modes        ,User Interface,0
+window to share list is not corresponding with the window names opened        ,User Interface,0
+no resize for window        ,User Interface,0
+bookmarks and history opened in a popup window should open in the main browser        ,User Interface,0
+"tools-->options-->open new window in new tab doesn't work in 4.0, did work in 3.5        ",User Interface,0
+"can not toggle ""special characters"" window open/closed.        ",User Interface,0
+long firefox sessions with many tabs opened cause firefox to cover the windows task bar when it is set to auto hide        ,User Interface,0
+mute sound of a window (including *all* of its tabs)        ,User Interface,0
+tab title does not update if titleless page is loaded after 'problem loading page'        ,User Interface,0
+"sync addon preference ""run in private windows""        ",User Interface,0
+regression: close prompt does not show tab count anymore        ,User Interface,0
+ff restart cause window dimensions to be zero (0) width and zero (0) height        ,User Interface,0
+"addition of ""lock tab"" to lock a tab, and force links to another tab        ",User Interface,0
+about:logins should re-use an already open tab        ,User Interface,0
+ms surface keyboard bugged in firefox following windows update 2004        ,User Interface,0
+tabs not loading when #urlbar-container is hidden        ,User Interface,0
+"improve how warmed tabs are ""cooled"" after the warming timeout        ",User Interface,0
+window resize gripper should always be the right-most element.        ,User Interface,0
+'save as/file select' window render broken on firefox        ,User Interface,0
+windows created from torn off tabs should not be maximized        ,User Interface,0
+dropdown menu failure on windows 7 non-aero.        ,User Interface,0
+"""list all tabs"" overflow menu keyboard shortcut (f8 or f9 ?)        ",User Interface,0
+need mru decoupled from tab previews system        ,User Interface,0
+all tabs lost when closing window while view source window is still open        ,User Interface,0
+firefox shows http-passwords in cleartext in the tab title        ,User Interface,0
+"when opening ""bookmark all tabs"" dialog, the folder field flickers - shows one value and then changes        ",User Interface,0
+"""forget"" icon still operational in private window, creating potential for user confusion        ",User Interface,0
+new firefox window opens outside (desktop) viewport with 2 monitors        ,User Interface,0
+firefox 101.0.1  will not play  on windows 10        ,User Interface,0
+firefox open with tabs and websites loaded then pc not sleeping on amd system        ,User Interface,0
+"page info window's media list scrollbar's dragger has incorrect size when opened (gets updated on window maximize, but not on manual resize).        ",User Interface,0
+firefox doesn't respect default printer setting windows        ,User Interface,0
+can't 'open in new tab' while new page is loading (ctrl + t) works        ,User Interface,0
+about:preferences connection parameters on windows        ,User Interface,0
+"sync/bookmarks: ""open all in tabs"" loads everything at once        ",User Interface,0
+load tabs on demand when opened in background        ,User Interface,0
+tab navigation does not work after coming back from any other site        ,User Interface,0
+it hard to distinguish which item is in focus on library window        ,User Interface,0
+session restore is launched even if i closed ff with a blank tab.        ,User Interface,0
+white line under tabs with custom theme and proton enabled        ,User Interface,0
+"bookmarks cut instead of opened in new tab from bookmarks toolbar folder (shortcut key ""t"" in the right-click context menu is inconsistent with that of links)        ",User Interface,0
+[wayland] firefox ui freezes after clicking right click on a tab and trying to select menu options        ,User Interface,0
+allow sidebar to be selected and turned on/off independently/separately for each tab in the same window / tab-specific sidebars        ,User Interface,0
+"after 96.0.2 upgrade multiple tabs crashed, will not restore        ",User Interface,0
+current private window design causes all content to twitch when i toggle tracking protection        ,User Interface,0
+back / forward buttons sometimes get disabled for a tab.        ,User Interface,0
+missing pixels in the corners on maximized window on high-density monitors        ,User Interface,0
+new tab not working after crashing        ,User Interface,0
+pdf downloads to unc path on windows fail to open and leave firefox unusable        ,User Interface,0
+"""duplicate tab"" opens different url        ",User Interface,0
+"after display mode changes to a low res and back, with a large amount of tabs, the tab overflow scroll buttons buttons do not ger removed.        ",User Interface,0
+accidentally closing pinned tabs        ,User Interface,0
+wayland - misplaced hamburger menu when unmaximized firefox window is near bottom edge of the screen        ,User Interface,0
+opening a link in a new tab does not make the tab bar scroll to the right so you can see it        ,User Interface,0
+right click menu does not show up in separate firefox windows        ,User Interface,0
+"right-click on tab is not showing ""send tab"" until avatar menu opened        ",User Interface,0
+multiple tab creation (via middle click vs ctrl+click)        ,User Interface,0
+"cross site scripting that lead to browser slow down  and lead to the endless searching , version 78.0.1 (64 bit window 8.1)        ",User Interface,0
+restored windows not placed on workspace #1        ,User Interface,0
+"""don't load tabs until selected"" should not download favicon till selected        ",User Interface,0
+right mouse context menu with tabs in titlebar does not work anymore        ,User Interface,0
+show thumbnails / previews of bookmarks and allow transformation of sets of bookmarks into tabs        ,User Interface,0
+changing tab after starting page load loads in wrong tab        ,User Interface,0
+fluent design on windows 10        ,User Interface,0
+address of last tab appear in address bar of existing open tabs        ,User Interface,0
+[e10s] view image broken when e10s enabled and images disabled        ,Workflow Bugs,1
+[macos] mouse over highlights card options isn't highlighted on default or light theme        ,Workflow Bugs,1
+restore defaults is not fully functional for all the content blocking settings        ,Workflow Bugs,1
+firefox 23 on osx 10.8.4: wetransfer site leads to ram problem        ,Workflow Bugs,1
+creating better support experience for sync users /adding a support button to the sync page        ,Workflow Bugs,1
+window.opener not set by shift-click        ,Workflow Bugs,1
+change deleting search suggestion history in the search bar from del to shift-del on all platforms (delete causes issues if a search suggestion is selected)        ,Workflow Bugs,1
+weather underground radar 'animation' loop  stalls after random interval        ,Workflow Bugs,1
+built-in screenshot utility serves wrong mime type text/ico        ,Workflow Bugs,1
+session restore gives wrong message if restore previous session is off        ,Workflow Bugs,1
+inline frames        ,Workflow Bugs,1
+headless screenshot is too quick: the page hasn't finished loading        ,Workflow Bugs,1
+"ssl ""revoked certificate"" popup offers no information, workarounds        ",Workflow Bugs,1
+when using a letter and receipt printer from firefox on version 62 it overrides paper formatting        ,Workflow Bugs,1
+no feedback on about:preferences#privacy manage cookies save        ,Workflow Bugs,1
+"""start new session"" should store existing session in sessionstore-backups        ",Workflow Bugs,1
+[meta] dns-over-https rollout        ,Workflow Bugs,1
+twitter in a container freezes computer and drags firefox to a halt        ,Workflow Bugs,1
+"when two sounds are played on different pages, the later sound stops the previous.        ",Workflow Bugs,1
+"cut sees text of icon, but 'find' cannot find the text on page.        ",Workflow Bugs,1
+temporary permission icon doesn't disappear after expiration        ,Workflow Bugs,1
+"mention ""firefox & thunderbird add-on converter for seamonkey"" in native en-us seamonkey        ",Workflow Bugs,1
+browser.bookmarks.openintabclosesmenu is not working        ,Workflow Bugs,1
+firefox hangs on printing html tables with more than 2500 rows        ,Workflow Bugs,1
+jsmouseevent needs to expose tablet pressure        ,Workflow Bugs,1
+add user interface for hpkp (http public key pinning)        ,Workflow Bugs,1
+make the entire library button menu available in the sidebar        ,Workflow Bugs,1
+default open/save directory isn't smart        ,Workflow Bugs,1
+provide some feedback for invalid uris entered in edit-bookmark dialog/pane        ,Workflow Bugs,1
+get rid of makeuri and makefileuri        ,Workflow Bugs,1
+distorted audio and delay (2-3 secs) in videos on firefox 90.0.2 x64 ubuntu 20.04        ,Workflow Bugs,1
+firefox not consistent across platforms (something css/layout/alignment/font-related)        ,Workflow Bugs,1
+restore read position in pdf documents after a crash        ,Workflow Bugs,1
+bookmark sort by name doesn't sort correctly        ,Workflow Bugs,1
+add on doesn't appear        ,Workflow Bugs,1
+firefox profile manager - delete profile - ui button text may lead to user error        ,Workflow Bugs,1
+add a pref to display a negative indicator in the url bar for mixed content sites        ,Workflow Bugs,1
+"the ""cfr recommendation"" doorhanger is wrongly closed and reopened if the ""jigsaw"" button is right-clicked        ",Workflow Bugs,1
+load event fires on a closed sidebar during session restore        ,Workflow Bugs,1
+firefox developer edition ubuntu: select element has a transparent background color        ,Workflow Bugs,1
+add additional descriptive text for search shortcuts for screen readers        ,Workflow Bugs,1
+norton identity safe reported to be interfering with firefox        ,Workflow Bugs,1
+firefox nightly not utilizing vaapi hardware acceleration properly compared to mpv and other media players        ,Workflow Bugs,1
+"download progress bar isn't correctly update when download is paused, ""for all cases""        ",Workflow Bugs,1
+allow toggling of bundled domain autocomplete        ,Workflow Bugs,1
+text selection is broken        ,Workflow Bugs,1
+clear history completely        ,Workflow Bugs,1
+the icon arrow-liked don't disappear from the bookmark side at bookmarks toolbar        ,Workflow Bugs,1
+firefox build error: exception specification in declaration does not match previous declaration        ,Workflow Bugs,1
+firefox downloads image with larger size than defined in srcset        ,Workflow Bugs,1
+"can't scroll ,it will scroll the page not the text box        ",Workflow Bugs,1
+[meta] easy setup onboarding first screen        ,Workflow Bugs,1
+"it shows the html tags of ""next"" and ""previous"" while searching on google something.        ",Workflow Bugs,1
+firefox hangs loading github pr page        ,Workflow Bugs,1
+when using https: i get double clicks sent to the web server. only in firefox versions later than 3.0.4.        ,Workflow Bugs,1
+webrtc/media testing        ,Workflow Bugs,1
+"very low use of net bandpass in upload videos on youtube, firefox v91.0        ",Workflow Bugs,1
+"sync login first time entry of sign-in token gets ""you've tried too many times, try again in xx minutes""        ",Workflow Bugs,1
+our remote settings attachment code can be replaced with remote settings api code        ,Workflow Bugs,1
+make preferences sync... sync        ,Workflow Bugs,1
+firefox shows part of screenshot when dragging text (see screencast)        ,Workflow Bugs,1
+"""clear now"" ""cancel"" buttons will go out of dialog frame, when clicking any of check box at ""clear browsing history"" dialog        ",Workflow Bugs,1
+startpage.com search results are lost on browser restart        ,Workflow Bugs,1
+margin-bottom in multi-column renders differently in firefox and chrome        ,Workflow Bugs,1
+[flatpak] flatpak firefox does not open filechooser        ,Workflow Bugs,1
+"""open with firefox"" from ""opening..."" dialog        ",Workflow Bugs,1
+copying anything from within firefox and then closing firefox will remove it from the clipboard        ,Workflow Bugs,1
+touch panning fails in special use case since firefox 6.0 on windows with touch input.        ,Workflow Bugs,1
+zen garden wasm demo stutters in 32-bit firefox        ,Workflow Bugs,1
+consider using status panel for indicating container        ,Workflow Bugs,1
+server not found        ,Workflow Bugs,1
+"failing to get search suggestions with ""formhistoryclient constructed with both a formfield and an inputname"" error (stop using formautofill in searchsuggestionscontroller)        ",Workflow Bugs,1
+deleting or cutting url from address bar hides site info and page action buttons until the user pressed esc        ,Workflow Bugs,1
+firefox 3.6.10 completely freezing        ,Workflow Bugs,1
+firefox not updating invalid-format errors        ,Workflow Bugs,1
+change the behavior of desktop notifikation - aplly update        ,Workflow Bugs,1
+"""forget about some browsing history"" has unintended results        ",Workflow Bugs,1
+cookie confirmation dialog should allow specifying where the wildcard should go in the cookie's domain        ,Workflow Bugs,1
+firefox frequently restores last sessions with option unchecked        ,Workflow Bugs,1
+transparency of popups are inconsistent        ,Workflow Bugs,1
+[meta] move screenshots into a dedicated browser component        ,Workflow Bugs,1
+not able to build firefox locally. error with c++ install.        ,Workflow Bugs,1
+unable to save attachments to folder or desktop from email messages or websites        ,Workflow Bugs,1
+authentication error on url passed authentication in img tag with multiple images.        ,Workflow Bugs,1
+element without tabindex can be tabbed into        ,Workflow Bugs,1
+don't allow enrollment in default-branch pref experiments when the pref doesn't have a built-in value        ,Workflow Bugs,1
+icons on navigation bar display inconsistently in size        ,Workflow Bugs,1
+show icons in menu and context menu        ,Workflow Bugs,1
+change nsspecialsystemdirectory::operator=(os_temporarydirectory) to violate fhs        ,Workflow Bugs,1
+firefox doesn't remember last pages on mac        ,Workflow Bugs,1
+pulldown menus don't work correctly        ,Workflow Bugs,1
+"bookmark keyword field accepts keywords with invalid characters (spaces,colons) but doesn't work - should display an error/prevent them        ",Workflow Bugs,1
+firefox developer edition occasionally does not restore previous session        ,Workflow Bugs,1
+firefoxclubs wiki        ,Workflow Bugs,1
+globe icon in switch-to-tab awesomebar results is always black        ,Workflow Bugs,1
+inset emoji context menu feature of ubuntu not working on firefox textboxes        ,Workflow Bugs,1
+user can accidentally erase their previous session in about:sessionrestore        ,Workflow Bugs,1
+bad behavior whilst dragging image        ,Workflow Bugs,1
+read hg changeset id from git commit        ,Workflow Bugs,1
+firefox going crazy        ,Workflow Bugs,1
+switch to using a tiff instead of a png for the dmg background image        ,Workflow Bugs,1
+"firefox shouldn't display icons in contextual menu on certain platforms in compliance with their hig (gnome, macos...)        ",Workflow Bugs,1
+[meta] paymentrequest first-time use (ftu) / onboarding experience        ,Workflow Bugs,1
+"[meta] firefox sync should provide durable storage of your profile data ""in the cloud""        ",Workflow Bugs,1
+allow for score specific post-answer urls in heartbeat prompts        ,Workflow Bugs,1
+cannot resize address bar after customizing        ,Workflow Bugs,1
+downloads view in the library is annoying on osx when firefox is fullscreen        ,Workflow Bugs,1
+firefox disables screenreader        ,Workflow Bugs,1
+starting add-on debugger should not install firefox updates        ,Workflow Bugs,1
+firefox hangs when you select something in terms of text        ,Workflow Bugs,1
+figure out what do to with candrop() with respect to sync vs async        ,Workflow Bugs,1
+keep a longer history trail in appdata\local\mozilla\firefox\nightly\updates        ,Workflow Bugs,1
+discord voip plays sound from other users that enter voip after me but does not play sound from other users that are already in voip chat.  firefox works fine with same prefs.js file        ,Workflow Bugs,1
+clarify permanent/temporary cert exception        ,Workflow Bugs,1
+rfe: specify converter (filter) instead of stand-alone app for mime types or protocols        ,Workflow Bugs,1
+two different find bars.        ,Workflow Bugs,1
+"firefox nightly: extended monitor: when watching a video /w 2 instances open and maximized on 2 different screens while video is full screen, video will flicker when typing and scrolling through web pages.        ",Workflow Bugs,1
+"firefox sync causes the password manager to prompt, interrupting typing        ",Workflow Bugs,1
+tabview keybindins are capturing keybinfings defined in the page        ,Workflow Bugs,1
+new implementation ignores browser.download.usedownloaddir        ,Workflow Bugs,1
+topsite loses pin after reorganized and jumps position        ,Workflow Bugs,1
+"lines missing in prefs.js after install,  white flash after start firefox 4.0        ",Workflow Bugs,1
+decide on what process the unprivileged paymentrequest ui should live in        ,Workflow Bugs,1
+can't find documentation for running cppunittests        ,Workflow Bugs,1
+look into remote settings for layouts and look at pros and cons established        ,Workflow Bugs,1
+support tagged pdfs in pdf.js        ,Workflow Bugs,1
+need network.dns.ipv6onlydomains for some sites        ,Workflow Bugs,1
+scrolling in firefox        ,Workflow Bugs,1
+should be compatible with os x 10.4 & 10.5 parental control        ,Workflow Bugs,1
+build of 54.0 hangs in precompile_startupcache with repeated mmap enomem        ,Workflow Bugs,1
+"perform a clobber build if build logic changes (recursivemake.py, etc)        ",Workflow Bugs,1
+can't login with phpmyadmin in multi-server configuration        ,Workflow Bugs,1
+slight shuffling of content as snippets load in ds        ,Workflow Bugs,1
+[xfa] severe alignment issues - follow-up 2        ,Workflow Bugs,1
+additional options for show heartbeat action        ,Workflow Bugs,1
+snapified firefox does not start if launched from directories it does not like        ,Workflow Bugs,1
+pdf-viewer should reload if file-content changes        ,Workflow Bugs,1
+firefox stops updating the ui properly with force-enabled hw acceleration on linux        ,Workflow Bugs,1
+hot key shift+command+f disappears from main menu after exiting full screen mode.        ,Workflow Bugs,1
+input confusion when numlock is off        ,Workflow Bugs,1
+remove alamofile library dependency        ,Workflow Bugs,1
+firefox v67.0(64 bit) will not open unless run as administrator on w10 v1809 (os build 17763.1503)        ,Workflow Bugs,1
+say that it is firefox writing to the invoking shell's stderr        ,Workflow Bugs,1
+site-specific zoom applies to error pages and feeds        ,Workflow Bugs,1
+bug when confirming a downloads local destination by pressing [enter]        ,Workflow Bugs,1
+protection report: prompt new user to browse        ,Workflow Bugs,1
+pink texture/artifacts with firefox 41 on android 5.1 tablet        ,Workflow Bugs,1
+linker error: undefined symbol when building fennec aarch64 with -o3        ,Workflow Bugs,1
+create a per-channel dashboard        ,Workflow Bugs,1
+headless option to save url page source        ,Workflow Bugs,1
+make js usage of appid (nsixulappinfo.id) not pass through xpconnect all the time        ,Workflow Bugs,1
+split browser.tabs.loaddivertedinbackground into two preferences - external programs and brower links/javascript        ,Workflow Bugs,1
+scrolling with mouse wheel on bookmarks main menu stops and switches to expanded sub menu when i hover over a main folder for more than a split second.        ,Workflow Bugs,1
+make bookmarks toolbar appear on the menu line by default        ,Workflow Bugs,1
+the favicon for the most frequent pages in the jumplist is still the old minefield icon.        ,Workflow Bugs,1
+[meta] sync metrics dashboard        ,Workflow Bugs,1
+"after firefox 46.0 update, unable to open the browser, ""could not find the mozilla runtime.""        ",Workflow Bugs,1
+mozilla firefox hardware acceleration glitches since firefox 33        ,Workflow Bugs,1
+"select tag with multiple options with height/width setting then page up picks downward, page down picks upward        ",Workflow Bugs,1
+firefox crashes when opening link from external app        ,Workflow Bugs,1
+add way to see title and alt attributes in the saved screenshot        ,Workflow Bugs,1
+libclang not detected with toolkit/moz.configure on linux        ,Workflow Bugs,1
+"firefox sync ""create an account"" link navigates to ""sign in"" page        ",Workflow Bugs,1
+"[css-flexbox] in firefox flex item with writing-mode:vertical-rl stretches, not in chrome        ",Workflow Bugs,1
+ld_preload with dlsym() of sysconf() hangs firefox        ,Workflow Bugs,1
+"""firefox:gl0"" received signal sigsegv        ",Workflow Bugs,1
+system defaults checking warning did not pop up after kill forcefully and quickly reopen firefox3.7a1pre        ,Workflow Bugs,1
+[eslint][meta] remove remaining violations of no-unsanitized rules        ,Workflow Bugs,1
+"text block becomes invisible if font is ""courier"" and transform:rotate used        ",Workflow Bugs,1
+smart keyword search fails on fast input        ,Workflow Bugs,1
+better organize the hidden preferences        ,Workflow Bugs,1
+a promise chain failed to handle a rejection        ,Workflow Bugs,1
+firefox completely locks linux making it necessary to press the system reset button        ,Workflow Bugs,1
+"firefox for ios does not show an indicator for ""passive"" mixed-content        ",Workflow Bugs,1
+greek character links are url encoded        ,Workflow Bugs,1
+when tracking protection is activated web fonts served from fonts.googleapis.com are blocked        ,Workflow Bugs,1
+mach bootstrap => sudo: add-apt-repository: command not found        ,Workflow Bugs,1
+improve documentation and test coverage for reach and exposure pings        ,Workflow Bugs,1
+incomplete history syncing        ,Workflow Bugs,1
+quitting in full screen causes firefox to fill the whole screen on next start        ,Workflow Bugs,1
+changing canvas linewidth is slow in firefox        ,Workflow Bugs,1
+"firefox hangs on ""print""        ",Workflow Bugs,1
+dpi set incorrectly after moving firefox to lower-res screen        ,Workflow Bugs,1
+create separator on top (instead of middle) after multiple bookmarks are selected        ,Workflow Bugs,1
+firefox reset duplex property        ,Workflow Bugs,1
+"some autocomplete online search results are displayed as if they are overflowing, with a fading effect, when typing slowly        ",Workflow Bugs,1
+break out layout_endpoint into new pref        ,Workflow Bugs,1
+conflict between 'refresh firefox' and 'firefox sync': confusing and scary that add-ons get reinstalled approx one day after refreshing firefox profile        ,Workflow Bugs,1
+"cuando pausas youtube shorts y vas a twitch en pantalla completa, la reproducción de youtubeshorts se vuelve a activar        ",Workflow Bugs,1
+cookie handling settings are very confusing        ,Workflow Bugs,1
+changing name in save as dialog switches automatically filter        ,Workflow Bugs,1
+[sway] [wayland] devtools toolbox makes firefox hanging and closing        ,Workflow Bugs,1
+cached web content size gets stuck at a size greater than zero even when cleared        ,Workflow Bugs,1
+stub pings for non-admin users always report non-default install directory        ,Workflow Bugs,1
+firefox fails in vnc (not a snap cgroup)        ,Workflow Bugs,1
+checkboxes no longer visible in firefox 54+        ,Workflow Bugs,1
+"""view more"" for each section        ",Workflow Bugs,1
+this symbol   /    always starts  fast searching at the bottom of the page.        ,Workflow Bugs,1
+a block with a scrollbar that is continually increased in size that is at the bottom of it's scrollable text will cause the whole page to flicker        ,Workflow Bugs,1
+[win] firefox keeps restarting with profile on unc path        ,Workflow Bugs,1
+reload pages from a script        ,Workflow Bugs,1
+disconnected device keeps syncing and never resets sync when no push is received        ,Workflow Bugs,1
+firefox 52.2esr cannot sort folders first in file->open dialog        ,Workflow Bugs,1
+fix spacing issues in the tag selector in the bookmarks panel when proton is enabled        ,Workflow Bugs,1
+"the notificationbox does not conform to the monitor that firefox is on, rather your main monitor (multiple monitors)        ",Workflow Bugs,1
+"minimize sidebar, or resize freely        ",Workflow Bugs,1
+unity not work in firefox when playing subway surfers and other games        ,Workflow Bugs,1
+ext_disjoint_timer_query.createqueryext crashes firefox        ,Workflow Bugs,1
+can not compile firefox 53 with clang/llvm 3.7        ,Workflow Bugs,1
+x11 exa + xfce composite = wrong pages render        ,Workflow Bugs,1
+session restore does not restore        ,Workflow Bugs,1
+selected text doesn't stay selected after zoom        ,Workflow Bugs,1
+evaluate whether we still need -moz-crisp-edges on favicons        ,Workflow Bugs,1
+history sync fails: ns_error_illegal_value calling moziasynchistory.updateplaces        ,Workflow Bugs,1
+kindle cloud reader is a performance nightmare        ,Workflow Bugs,1
+can --disable-neon please be added?        ,Workflow Bugs,1
+"""view pocket list"" prevents going back to previous page due to server redirects        ",Workflow Bugs,1
+firefox does not scroll to url fragments when linked to from external pages        ,Workflow Bugs,1
+proton icons appear blurry        ,Workflow Bugs,1
+[proton] visual glitches when accessing the fxa panel        ,Workflow Bugs,1
+preference binding doesn't flush prefs after a clearuserpref        ,Workflow Bugs,1
+modal dialogs in general preferences show up too slow        ,Workflow Bugs,1
+change default tps logs location        ,Workflow Bugs,1
+"propose some options for evolving our react testing strategy, since enzyme is either dying or dead        ",Workflow Bugs,1
+copying rich text from firefox does not capture styling from style sheet        ,Workflow Bugs,1
+add delete button to awesome bar result matches        ,Workflow Bugs,1
+drag'n'drop url on home icon should also suggest to append to (instead of replace) homepage setting        ,Workflow Bugs,1
+errors while customizing toolbars        ,Workflow Bugs,1
+firefox doesn't use mac system appearance color for url bar menu        ,Workflow Bugs,1
+firefox account avatar not refreshed on sumo        ,Workflow Bugs,1
+update the heuristic result contents for canonize url        ,Workflow Bugs,1
+add a regression test for ensuring that mimetype from server wouldn't affect the content-type the browser submit        ,Workflow Bugs,1
+disable-elf-hack needed while building on debian with address sanitizer (no gain)        ,Workflow Bugs,1
+more space expected between toolbarseparator and device name in fxa panel        ,Workflow Bugs,1
+"[photon] preferences: it would be nice if it be possible to scroll the preferences site, when mouse cursor is the navigation area        ",Workflow Bugs,1
+installing a program that opens a web page starts firefox as privileged        ,Workflow Bugs,1
+got leak messages when close firefox        ,Workflow Bugs,1
+no access to named pipes via javascript chrome extensions        ,Workflow Bugs,1
+[fedora-28] [firefox-60] freeserif get selected for devanagari text instead of system default (lohit devanagari)        ,Workflow Bugs,1
+blank space on toolbars        ,Workflow Bugs,1
+creating new documents from google drive is blocked by the popup blocker        ,Workflow Bugs,1
+figure out why the nsdocshell::copyfavicon assert fails and fix it        ,Workflow Bugs,1
+"add a ""current-url"" attribute to #main-window in browser.xhtml        ",Workflow Bugs,1
+[kde] firefox deadlocks on right click in bitwarden popover        ,Workflow Bugs,1
+firefoxcp isolated web content using all memory on mac        ,Workflow Bugs,1
+dns request flood during firefox startup        ,Workflow Bugs,1
+previous search suggestions are wrongly displayed when a search shortcut is clicked        ,Workflow Bugs,1
+syncing should update devtool theme too        ,Workflow Bugs,1
+add an option to select which sound card will play sounds        ,Workflow Bugs,1
+firefox on windows incorretly handles missing font in form input field's placeholder        ,Workflow Bugs,1
+dynamic interface specifications for toolkit/components/search        ,Workflow Bugs,1
+firefox starts up slow when the local hostname cant be resolved        ,Workflow Bugs,1
+pac proxy working intermittently after firefox update to 52        ,Workflow Bugs,1
+"intermittent browser_subdialogs.js | dialog title should be updated with changes - got sample sub-dialog, expected updated title        ",Workflow Bugs,1
+sup renders incorrectly on firefox maybe sub too        ,Workflow Bugs,1
+character entities &rarr; etcetera not displaying correctly        ,Workflow Bugs,1
+replace nsicertificatedialogs from firefox extension not working        ,Workflow Bugs,1
+unable to make a new window when viewing page source on mac        ,Workflow Bugs,1
+network.http.phishy-userpass-length preference missing from about:config        ,Workflow Bugs,1
+firefox-esr segfault at startup        ,Workflow Bugs,1
+ipv6 url with embedded hex ascii codes not correctly decoded        ,Workflow Bugs,1
+make |mach bootstrap| offer to install sccache and help configure local office scccache if appropriate        ,Workflow Bugs,1
+pressing cmd+a in the help menu search field closes the menu and selects text inside firefox        ,Workflow Bugs,1
+three finger middle click.        ,Workflow Bugs,1
+containers color selection is not colorblind friendly        ,Workflow Bugs,1
+bug printing html page with multiple div with box-shadow        ,Workflow Bugs,1
+new firefox menu buttons do not trigger command events        ,Workflow Bugs,1
+about:reader url is exposed in the location bar menu        ,Workflow Bugs,1
+text block popping up when over a button shows last link that mouse pointer was over        ,Workflow Bugs,1
+%2f wrongly unescaped when link target shown in status bar        ,Workflow Bugs,1
+multiple sync devices from the same iphone showing up in desktop        ,Workflow Bugs,1
+"section placeholders are no longer displayed if search, top sites or highlights are disabled        ",Workflow Bugs,1
+firefox 68.0esr occupies high cpu and it generates many (about 119080 ) [parent][messagechannel] error        ,Workflow Bugs,1
+symbols are occasionally distorted in firefox        ,Workflow Bugs,1
+mixed content shield not displayed in ubuntu 13.10 firefox        ,Workflow Bugs,1
+"""restore default settings"" ssl pref reset button doesn't appear for the ""interrupted"" case in non-english builds        ",Workflow Bugs,1
+hamburger menu is incorrectly displayed after adding a homepage        ,Workflow Bugs,1
+"nextcloud website causes login loop, fixed with new profile        ",Workflow Bugs,1
+"on linux mint, the size of firefox remains the same until i set the fontsize in my computersettings to 1.4 which makes everything too big.        ",Workflow Bugs,1
+undoing enabling 3rd party themes always enables default theme in new aom        ,Workflow Bugs,1
+save next to images also audio and video as complete web page        ,Workflow Bugs,1
+firefox is very slow drawing in canvas        ,Workflow Bugs,1
+remove visibledefaultengines and visibledefaultenginehash on search metadata object. these are no longer used.        ,Workflow Bugs,1
+dashboard to track data integrity over time        ,Workflow Bugs,1
+firefox doesn't respect the dpi values in a multi-monitor setting        ,Workflow Bugs,1
+limit card networks dropdown to supported networks        ,Workflow Bugs,1
+[meta] fixing createcodebaseprincipalfromorigin callers to support contextual identities.        ,Workflow Bugs,1
+minor cosmetic issue when opening large number of sites in one go.        ,Workflow Bugs,1
+"update styling of alert(), confirm(), prompt()        ",Workflow Bugs,1
+add applytargeting param to about:studies preview urls        ,Workflow Bugs,1
+"""what's new"" in about dialog feels wrong when a manual update search indicates you can update to a different version (shows release notes for existing install instead of update)        ",Workflow Bugs,1
+apply content signing to pocket feed in activity stream        ,Workflow Bugs,1
+"add ""retry"" button to sync sign-in failure page        ",Workflow Bugs,1
+firefox fails to build pixman on ppc64: error: implicit declaration of function ‘vec_xl’        ,Workflow Bugs,1
+360 videos do not play in firefox        ,Workflow Bugs,1
+"when leaving firefox on overnight, it sometimes is frozen the next morning        ",Workflow Bugs,1
+bookmark search in sidebar: support enter and down-arrow keys for smoother workflow        ,Workflow Bugs,1
+firefox uses too much bandwidth        ,Workflow Bugs,1
+scroll region is not clear between side menu pane and the right side detail pane of preferences and addon manager.        ,Workflow Bugs,1
+firefox initial page is not taking the inputs        ,Workflow Bugs,1
+show-favourites-icon disappears        ,Workflow Bugs,1
+sometimes bookmarks folder gets deleted after firefox is killed from task manager        ,Workflow Bugs,1
+'onbeforeunload' code does not submit html form that is to be sent from an iframe        ,Workflow Bugs,1
+dragging a shortcut as software security device appears makes firefox unclickable        ,Workflow Bugs,1
+improve how the paymentrequest ui uses form autofill management form resources        ,Workflow Bugs,1
+make an option to stop requesting firefox updates        ,Workflow Bugs,1
+firefox doesn't recognize gpu capabilities        ,Workflow Bugs,1
+add image exceptions        ,Workflow Bugs,1
+allow instant (and lasting) dismissal of any item recommended by pocket at about:newtab        ,Workflow Bugs,1
+saving post result page silently resends post data if page no longer in cache        ,Workflow Bugs,1
+add leakzero as a built-in search engine for chinese (simplified)        ,Workflow Bugs,1
+after some time my firefox will start to change to pure blackness and then crash        ,Workflow Bugs,1
+multilingual / multi-language firefox package for macos x        ,Workflow Bugs,1
+firefox causes my system to have high input latency / input lag after suspend or a long uptime        ,Workflow Bugs,1
+preference to disable cursor (mouse pointer) shape manipulation        ,Workflow Bugs,1
+lower barrier to modularity w/jsx component generator script        ,Workflow Bugs,1
+create high level documentation on how the search service works overall and on start-up        ,Workflow Bugs,1
+wpad discovery not performed on network change (proxy)        ,Workflow Bugs,1
+option for serial instead of parallel download of page elements        ,Workflow Bugs,1
+webpage in firefox for android slows down when zoomed in        ,Workflow Bugs,1
+loading a single page in firefox incurs 4 mb of read i/o in cert8.db        ,Workflow Bugs,1
+firefox with openh264 codec can't play a video with pixel format in yuv422p        ,Workflow Bugs,1
+"firefox + voiceover doesn't read content with role=""heading"" when in shadowdom.        ",Workflow Bugs,1
+eliminate login concept from sync        ,Workflow Bugs,1
+chore: increase our frontend code coverage        ,Workflow Bugs,1
+r-go tools' usb keyboard lags in firefox; fine on other software        ,Workflow Bugs,1
+customized implementation of a couple of mozilla functions        ,Workflow Bugs,1
+exceptions images n'est pas conservé        ,Workflow Bugs,1
+add automated test for pdf navigation        ,Workflow Bugs,1
+improve handling of many cookie-requests        ,Workflow Bugs,1
+reader mode does not respect vertical writing mode        ,Workflow Bugs,1
+failed to add bookmark to toolbar        ,Workflow Bugs,1
+"dialog for ""always ask"" for handling pdfs should show ""preview in nightly"" as an option        ",Workflow Bugs,1
+firefox operations degrade after reaching 2gb of ram        ,Workflow Bugs,1
+finalize field-specific error message strings        ,Workflow Bugs,1
+"in full screen mode, the toolbar context menu does not allow toolbar customization or changing bookmarks toolbar visibility        ",Workflow Bugs,1
+firefox shouldn't attempt to play unsupported content in supported container.        ,Workflow Bugs,1
+jump list favicons do not match firefox ui favicons        ,Workflow Bugs,1
+"[experiment] the font size of the ""popular topics"" elements that are part of the ""new tab layout study"" is wrongly set to ""11px"" instead of ""13px""        ",Workflow Bugs,1
+"adding secondary email (associated to some other account) to firefox account, it says it is already added to your account.        ",Workflow Bugs,1
+"intermittent browser_947914_button_cut.js | selected text is removed from source when clicking on cut - got cut text test, expected        ",Workflow Bugs,1
+"how to make the default font of pages in firefox android browser follow the system, just like chromium.        ",Workflow Bugs,1
+extreme memory surge when opening a certain pdf-file        ,Workflow Bugs,1
+occasionally opened context menu stays opened when another application is focused        ,Workflow Bugs,1
+horizontal scrolling with the mouse even if disabled        ,Workflow Bugs,1
+document does not own the load group        ,Workflow Bugs,1
+aero glass glaze effect jumps down when mousing over links while find bar is open        ,Workflow Bugs,1
+save to pocket button could use some more tests        ,Workflow Bugs,1
+"urls for each preference, deep about: item, etc.        ",Workflow Bugs,1
+typeerror: event.originaltarget.getattribute is not a function        ,Workflow Bugs,1
+tabcandy icon keeps reappearing after removal        ,Workflow Bugs,1
+dragging bookmarked items from the overflow menu onto the current opened webpage breaks the drag functionality        ,Workflow Bugs,1
+severe performance regression in firefox while windows speech recognition is running due to multi-process        ,Workflow Bugs,1
+'beforeprint' and 'afterprint' events not fired from developer tools’ “toggle media print simulation firefox”        ,Workflow Bugs,1
+firefox ceases to redraw the screen when running        ,Workflow Bugs,1
+text in macos application (firefox (nightly)) menu is not translated after the language is changed        ,Workflow Bugs,1
+"searching is not marking the searched term, in some cases        ",Workflow Bugs,1
+make richoption extend htmloptionelement        ,Workflow Bugs,1
+firefox doesn't start if 3d graphics acceleration is enabled in vmware workstation player        ,Workflow Bugs,1
+add test for icons in the locationbar        ,Workflow Bugs,1
+firefox browser is occasionally unresponsive in mac 10.14.5        ,Workflow Bugs,1
+"when i stop/restart ff, certain icons  (always the same ones) disappear from bookmarks toolbar        ",Workflow Bugs,1
+intermittent browser_354894_perwindowpb.js | test timed out        ,Workflow Bugs,1
+eventsource in js can be flooded and firefox totally freezes        ,Workflow Bugs,1
+"add automated test for ""highlights - context menu - save to pocket""        ",Workflow Bugs,1
+rename idn whitelist usage to allowlist        ,Workflow Bugs,1
+undo 'restore defaults' does not restore toolbar visibility (bookmarks / menu toolbar )        ,Workflow Bugs,1
+[firefox 66] asp.net ajax control toolkit htmleditor does not accept a period character (.) in many cases        ,Workflow Bugs,1
+typeerror: can't access dead object        ,Workflow Bugs,1
+firefox steals the system ram in mac yosemite os        ,Workflow Bugs,1
+some engines disabled during syncing with intermittent server failures        ,Workflow Bugs,1
+firefox doesn't load wordpress webm listings        ,Workflow Bugs,1
+macos - firefox browser on mac shows up on the new desktop when switching the desktop        ,Workflow Bugs,1
+cannot easily reattempt navigating to a url that returned status 204 no content using reload button (and url is not remembered in session restore)        ,Workflow Bugs,1
+firefox dualshock 4 support        ,Workflow Bugs,1
+clicking right mouse button on folder's dropmarker chooses wrong target for context menu        ,Workflow Bugs,1
+problem installing extensions        ,Workflow Bugs,1
+sessionstore.settabstate should serialize principals        ,Workflow Bugs,1
+tag pages visited from a search with the search string that generated them        ,Workflow Bugs,1
+firefox xslt transform removes the closing tag for iframe        ,Workflow Bugs,1
+intermittent toolkit/components/payments/test/browser/browser_show_dialog.js | leaked 1 docshell(s) until shutdown        ,Workflow Bugs,1
+save as don't save current page (after post(?))        ,Workflow Bugs,1
+fix spacing issues around items in the permission management panel        ,Workflow Bugs,1
+add routing to asr debugger        ,Workflow Bugs,1
+speech-dispatcher needs socket activation        ,Workflow Bugs,1
+"right-click on toolbar link: ""copy"" should be labelled ""copy link location""        ",Workflow Bugs,1
+"move certain content from ""debugging on mac os x"" page to ""debugging firefox with lldb"" page in in-tree        ",Workflow Bugs,1
+right click drop-down text difficult to read.        ,Workflow Bugs,1
+add ability to set initial size on windowless browser        ,Workflow Bugs,1
+splitbox position is wrong with firefox bookmarks open        ,Workflow Bugs,1
+"improve ""mach package"" behaviour when necessary tools aren't available        ",Workflow Bugs,1
+collect onboarding-noshow-smallscreen and overlay-disappear-resize event for onboarding telemetry        ,Workflow Bugs,1
+list no default bookmarks at all        ,Workflow Bugs,1
+3d css transform animation moves in wrong direction on firefox        ,Workflow Bugs,1
+hung browser: firefox not setting select option elements text with leading spaces        ,Workflow Bugs,1
+provide longdesc keyboard support        ,Workflow Bugs,1
+the slow connectivity error from the language settings modal is displayed after incorrect timing        ,Workflow Bugs,1
+escaped backslashes replaced with backslashes (leading to forward slashes when hitting enter again)        ,Workflow Bugs,1
+car visualizer demo on firefox for android crashes due to memory pressure event        ,Workflow Bugs,1
+don't sync locked preferences        ,Workflow Bugs,1
+pressing [escape] should stop all kind of animations        ,Workflow Bugs,1
+perform fingerprint comparison of tor browser and firefox        ,Workflow Bugs,1
+history panel doesn't refresh after sign in with sync completed        ,Workflow Bugs,1
+intermittent browser_bug422590.js | application timed out after 330 seconds with no output        ,Workflow Bugs,1
+autocorrect in address bar makes it impossible to type anything that starts with ‘o’        ,Workflow Bugs,1
+ui items position: improve use of screen real estate        ,Workflow Bugs,1
+"firefox v84 on macos 10.15.7 on imac (retina 5k, 27-inch, late 2014) is translucent at right edge of display        ",Workflow Bugs,1
+"on the mac, command-question-mark keyboard shortcut brings up ""help"" web page rather than the platform standard of highlighting the ""help"" search field        ",Workflow Bugs,1
+evaluate postponing results that match on the query string        ,Workflow Bugs,1
+allowing open webextensions content page directly in private mode        ,Workflow Bugs,1
+remove remainder of non-proton hamburger menu view and dependent code        ,Workflow Bugs,1
+"security: since version 20, firefox requires paxctl -m        ",Workflow Bugs,1
+ff spamming syslog on osx when world of warcraft is running        ,Workflow Bugs,1
+[flatpak] firefox flatpak spawns a process with no icon when launched        ,Workflow Bugs,1
+"firefox bmp to ico converter is not good, results in jagged edges especially        ",Workflow Bugs,1
+web pages capture control-l        ,Workflow Bugs,1
+spellchecker: language and word menu items accumulate in the menu        ,Workflow Bugs,1
+[ux] make keyboard shortcut consistent        ,Workflow Bugs,1
+countdown timers stop on some manual surf traffic exchange sites particularly ventrino sites        ,Workflow Bugs,1
+rendering errors with mathjax formulas specific to firefox on linux        ,Workflow Bugs,1

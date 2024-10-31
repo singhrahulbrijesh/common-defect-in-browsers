@@ -1,0 +1,7 @@
+Extracts a git repo from the commit logs
+
+The sequence of steps and explanations is in the shell script. An example config file is config/lx.conf
+
+Please run:
+./run.sh <db_name> <config_file>
+
