@@ -17,7 +17,7 @@ This repository contains the code and resources for the research paper titled "B
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/singhrahulbrijesh/common-defect-in-browsers.git
 Navigate to the project directory:
 bash
 Copy code
@@ -44,7 +44,7 @@ Acknowledgments
 Thanks to the contributors of the Firefox and Chromium projects for their open-source efforts, which made this research possible.
 
 Contact
-For any inquiries, please reach out to me at your-email@example.com.
+For any inquiries, please reach out to me at singhrahulbriesj@gmail.com.
 
 css
 Copy code
