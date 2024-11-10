@@ -10,6 +10,9 @@ This repository contains the code and resources for the research paper titled "B
 - **Visualization**: Tools for visualizing bug clusters and defect patterns.
 - **Results**: Analysis scripts that summarize the findings of the research.
 
+Methodolgy 
+
+
 ## Installation
 1. Clone the repository:
    ```bash
