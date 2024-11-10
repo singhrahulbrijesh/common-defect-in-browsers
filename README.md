@@ -11,7 +11,7 @@ This repository contains the code and resources for the research paper titled "B
 - **Results**: Analysis scripts that summarize the findings of the research.
 
 Methodology Diagram - 
-(methodology.drawio)
+(methodology.png)
 
 
 ## Installation
