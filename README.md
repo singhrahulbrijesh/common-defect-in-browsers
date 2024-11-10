@@ -10,8 +10,7 @@ This repository contains the code and resources for the research paper titled "B
 - **Visualization**: Tools for visualizing bug clusters and defect patterns.
 - **Results**: Analysis scripts that summarize the findings of the research.
 
-Methodology Diagram - 
-(methodology.png)
+Methodology Diagram - methodology.png
 
 
 ## Installation
