@@ -10,9 +10,28 @@ This repository contains the code and resources for the research paper titled "B
 - **Visualization**: Tools for visualizing bug clusters and defect patterns.
 - **Results**: Analysis scripts that summarize the findings of the research.
 
-Methodology Diagram
+Methodology 
+Our methodology consisted of several stages to analyze and categorize bugs in Chrome and Firefox using Natural Language Processing (NLP) and clustering techniques.
 
 ![A screenshot of the Methodology](./methodology.png)
+
+Data Collection & Pre-processing:
+
+We collected bug descriptions and component information from bug reports, forming a relational table to link bugs to affected components.
+Commit data from Git repositories was linked to bugs by extracting bug IDs and labeling commits with component names based on file paths.
+NLP & Tokenization:
+
+We pre-processed the text by removing stop words, tokenizing, and lemmatizing bug descriptions to prepare for analysis.
+Using TF-IDF, we calculated word importance, filtered irrelevant words, and identified key terms for clustering.
+Clustering & Thematic Analysis:
+
+We used K-Means clustering and Principal Component Analysis (PCA) to group similar bugs, identifying clusters based on token patterns.
+We conducted thematic analysis and inter-rater reliability checks to finalize categories for bug types.
+Knowledge Embedding:
+
+Using OpenAI embeddings, we created vector representations of bug descriptions and commit messages to capture relationships between bugs and components.
+This approach allowed us to categorize bugs effectively and assess the model’s understanding of browser-specific bug patterns.
+
 
 
 
@@ -29,14 +48,6 @@ cd repo-name
 Install the required packages:
 bash
 
-pip install -r requirements.txt
-
-Usage
-To run the analysis, execute the following command:
-python main.py
-
-
-Adjust any necessary parameters in the configuration files as needed.
 
 Contributions
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug reports.
