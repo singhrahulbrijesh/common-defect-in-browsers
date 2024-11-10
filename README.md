@@ -11,6 +11,7 @@ This repository contains the code and resources for the research paper titled "B
 - **Results**: Analysis scripts that summarize the findings of the research.
 
 Methodology 
+
 Our methodology consisted of several stages to analyze and categorize bugs in Chrome and Firefox using Natural Language Processing (NLP) and clustering techniques.
 
 ![A screenshot of the Methodology](./methodology.png)
