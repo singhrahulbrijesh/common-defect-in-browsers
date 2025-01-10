@@ -383,6 +383,12 @@ Chromium and Firefox components.
 
 **4. Image File (component-bug-ch-fx-bar.jpg)**
 
+![Chromium-predicted categories](https://github.com/user-attachments/assets/96d414b1-0bc3-40ac-a9e4-1cc17a020f03)
+
+**4. Image File (firefox-bug-ch-fx-bar.jpg)**
+
+![Firefox-predicted categories bigger font size ](https://github.com/user-attachments/assets/4c4803c0-2bba-4fa6-9e5a-e02dc7953184)
+
 This image shows the bar plots generated from the data, where:
 
 - **X-Axis**: Component names
