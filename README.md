@@ -185,14 +185,14 @@ categories for each system.
 The CSV files used for analysis were derived from the ch_commit and
 ch_git_revision tables. Components and bugs were extracted, and further
 analysis was performed to predict bug categories. For detailed steps,
-refer to the Methodology section of the research paper.
+please look at the Methodology section of the research paper.
 
 **RQ3: High Effort Consuming (HEC) Bugs Analysis**
 
 **Overview**
 
 This folder contains data files, SQL scripts, and a Jupyter Notebook
-related to the analysis of High Effort Consuming (HEC) bugs. The
+related to analyzing High Effort Consuming (HEC) bugs. The
 analysis focuses on identifying and visualizing bugs with significant
 churn (effort) for two browsers: **Firefox** and **Chromium**.
 
